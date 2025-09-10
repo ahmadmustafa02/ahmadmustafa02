@@ -103,15 +103,6 @@ console.log("Ready to build the future! 🌟");
 
 ---
 
-## 🌟 Featured Projects & Contributions
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB&icon_color=06B6D4" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB" />
-</div>
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
@@ -119,7 +110,7 @@ console.log("Ready to build the future! 🌟");
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ahmadmustafa.com-6366F1?style=for-the-badge&logoColor=white)](https://ahmadmustafa.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadmustafa01)
 [![Instagram](https://img.shields.io/badge/Instagram-@ahmadbuttmusic-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmadbuttmusic)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadmustafa01@gmail.com)
 
 </div>
 
