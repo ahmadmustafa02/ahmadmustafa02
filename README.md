@@ -1,128 +1,151 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=FF6400,CC4400,FF8C42&height=200&section=header&text=Ahmad%20Mustafa&fontColor=fff&fontSize=52&fontAlignY=55&desc=Product%20Full-Stack%20Engineer&descAlignY=78&descSize=18&animation=fadeIn" />
+# Product Full-Stack Engineer & AI Enthusiast 🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Intelligent+Web+Solutions;Full+Stack+%7C+AI%2FML+%7C+UI%2FUX;Crafting+User-Centered+Experiences;Transforming+Ideas+into+Reality" />
 
 </div>
 
 ---
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ahmadmustafa.com-FF6400?style=flat-square&logo=firefox&logoColor=white)](https://ahmadmustafa.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmadmustafa01-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadmustafa01)
-[![Gmail](https://img.shields.io/badge/Email-ahmadmustafa01-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmadmustafa01@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@ahmadbuttmusic-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ahmadbuttmusic)
-![Pakistan](https://img.shields.io/badge/📍-Pakistan-FF6400?style=flat-square)
-
-</div>
-
----
-
-## `whoami`
+## 💫 Professional Summary
 
 ```javascript
-const ahmad = {
-  role:             "Product Full-Stack Engineer",
-  location:         "Pakistan 🇵🇰",
-  focus:            ["AI-Powered Web Apps", "Exceptional UX", "Scalable Products"],
-  expertise:        ["Full-Stack Dev", "AI/ML Engineering", "UI/UX Design"],
-  philosophy:       "Code with purpose. Design with empathy. Ship with intent.",
-  currentlyBuilding: "Intelligent web experiences at the edge of AI",
+const ahmadMustafa = {
+    role: "Product Full-Stack Engineer",
+    location: "🇵🇰 Pakistan",
+    passion: ["Building Scalable Products", "AI-Powered Solutions", "Exceptional UX"],
+    expertise: ["Full Stack Development", "AI/ML Engineering", "UI/UX Design"],
+    philosophy: "Code with purpose, design with empathy, innovate with AI",
+    currentFocus: "Integrating AI into modern web experiences"
 };
 
-// Always learning. Always shipping. 🔥
+console.log("Ready to build the future! 🌟");
 ```
 
 ---
 
-## `tech.arsenal`
+## 🛠️ Technical Arsenal
 
-### ◆ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### **Frontend Mastery**
+<div align="left">
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,materialui" />
+</div>
 
-### ◆ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+**Languages:** JavaScript • TypeScript • HTML5 • CSS3  
+**Frameworks:** ReactJS • Responsive UI Design  
+**Styling:** Material UI • Tailwind CSS • Modern CSS Techniques
 
-### ◆ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### **Backend Engineering**
+<div align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,cpp,python" />
+</div>
 
-### ◆ AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Python](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+**Languages:** Java • JavaScript • C++ • Python  
+**Runtime & Frameworks:** Node.js • Express.js • RESTful APIs
 
-### ◆ Design & Tooling
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+### **Database Technologies**
+<div align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+</div>
 
----
+**SQL:** PostgreSQL (Sequelize ORM)  
+**NoSQL:** MongoDB (Mongoose ODM)  
+**Query Languages:** SQL • NoSQL
 
-## `how.i.build()`
+### **AI/ML & Data Science**
+<div align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</div>
 
-```
-  Research → Design → Develop → AI-Enhance → Deploy → Iterate
-   [ 01 ]     [ 02 ]   [ 03 ]     [ 04 ]      [ 05 ]    [ 06 ]
+**Core Concepts:** Supervised & Unsupervised Learning • Neural Networks • Deep Learning  
+**Frameworks:** TensorFlow • Keras • LangChain  
+**Applications:** Intelligent Web Features • Data-Driven Solutions
 
-  🔍 Understand user needs & market gaps
-  🎨 Craft intuitive, beautiful interfaces
-  ⚡ Build robust, scalable solutions
-  🤖 Integrate AI for smarter functionality
-  🚀 Launch with performance & accessibility
-  📈 Improve continuously from real feedback
-```
+### **Design & User Experience**
+<div align="left">
+<img src="https://skillicons.dev/icons?i=figma,xd" />
+</div>
 
----
+**Design Philosophy:** User-Centered Design • Design Thinking  
+**Tools:** Figma • Adobe XD • Wireframing & Prototyping  
+**Specialties:** Responsive Web Design • Mobile-First Approach
 
-## `core.capabilities`
+### **Development Tools & Workflow**
+<div align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</div>
 
-| Area | What I Bring |
-|------|-------------|
-| 🚀 **Product Dev** | Concept → Deployment, end-to-end digital products |
-| 🎨 **UX Design** | Intuitive interfaces that users genuinely love |
-| 🤖 **AI Integration** | Intelligent features inside real web applications |
-| 📱 **Responsive Design** | Pixel-perfect across every screen size |
-| ⚡ **Performance** | Optimized, scalable systems built to grow |
+**Version Control:** Git • GitHub • Git Flow  
+**Development:** VS Code • Modern Development Workflows
 
 ---
 
-## `philosophy`
-
-> *"Great products live at the intersection of user needs, technical excellence, and creative vision — I build exactly there."*
-
----
-
-## `github.stats`
+## 🎯 What I Do Best
 
 <div align="center">
 
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadmustafa01&show_icons=true&theme=dark&hide_border=true&title_color=FF6400&icon_color=FF8C42&text_color=e8e0d5&bg_color=111111)
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🎨 UI/UX Design  →  💻 Full-Stack Dev  →  🤖 AI Integration │
+│                                                             │
+│        Creating end-to-end digital experiences             │
+│           that users love and businesses need              │
+└─────────────────────────────────────────────────────────────┘
+```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmustafa01&layout=compact&theme=dark&hide_border=true&title_color=FF6400&text_color=e8e0d5&bg_color=111111)
+</div>
+
+**🚀 Product Development:** From concept to deployment, I build complete digital products  
+**🎨 User Experience:** Crafting intuitive interfaces that delight users  
+**🤖 AI Integration:** Bringing intelligence to web applications  
+**📱 Responsive Design:** Pixel-perfect experiences across all devices  
+**⚡ Performance:** Optimized, scalable solutions that grow with your business
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ahmadmustafa.com-6366F1?style=for-the-badge&logoColor=white)](https://ahmadmustafa.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadmustafa01)
+[![Instagram](https://img.shields.io/badge/Instagram-@ahmadbuttmusic-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmadbuttmusic)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadmustafa01@gmail.com)
 
 </div>
 
 ---
 
+## 💭 Philosophy & Approach
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6400,CC4400&height=80&section=footer&fontColor=fff&animation=fadeIn" />
+> *"Great products are born at the intersection of user needs, technical excellence, and creative vision"*
 
-**▲ always learning · always building · always pushing boundaries ▲**
+```ascii
+    Design Thinking + Engineering Excellence + AI Innovation
+                              ↓
+                    Products that make a difference
+```
 
+</div>
+
+### My Process:
+🔍 **Research** → Understanding user needs and market gaps  
+🎨 **Design** → Creating intuitive and beautiful experiences  
+⚡ **Develop** → Building robust, scalable solutions  
+🤖 **Enhance** → Integrating AI for smarter functionality  
+🚀 **Deploy** → Launching with performance and accessibility in mind  
+📈 **Iterate** → Continuous improvement based on user feedback
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=16&fontColor=fff&animation=twinkling" />
+</div>
+
+---
+
+<div align="center">
+<sub>✨ Always learning, always building, always pushing boundaries ✨</sub>
 </div>
