@@ -1,151 +1,96 @@
 <div align="center">
 
-# Product Full-Stack Engineer & AI Enthusiast 🚀
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Intelligent+Web+Solutions;Full+Stack+%7C+AI%2FML+%7C+UI%2FUX;Crafting+User-Centered+Experiences;Transforming+Ideas+into+Reality" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Ahmad%20Mustafa&fontSize=70&color=0:FF6B00,100:FF9A3C&fontColor=ffffff&stroke=FF6B00&strokeWidth=2&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=20&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=500&lines=Product+Full-Stack+Engineer;AI+%2F+ML+Enthusiast;UI+%2F+UX+Craftsman;Building+Things+That+Matter" alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/ahmadmustafa.com-FF6B00?style=flat-square&logo=firefox&logoColor=white)](https://ahmadmustafa.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadmustafa01)
+[![Email](https://img.shields.io/badge/Email-FF6B00?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmadmustafabutt.dev@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ahmadbuttmusic)
 
 </div>
 
 ---
 
-## 💫 Professional Summary
+## ◈ About
 
-```javascript
-const ahmadMustafa = {
-    role: "Product Full-Stack Engineer",
-    location: "🇵🇰 Pakistan",
-    passion: ["Building Scalable Products", "AI-Powered Solutions", "Exceptional UX"],
-    expertise: ["Full Stack Development", "AI/ML Engineering", "UI/UX Design"],
-    philosophy: "Code with purpose, design with empathy, innovate with AI",
-    currentFocus: "Integrating AI into modern web experiences"
+```ts
+const ahmad = {
+  role     : "Product Full-Stack Engineer",
+  focus    : ["Scalable Products", "AI-Powered Web Apps", "Intuitive UX"],
+  approach : "Design with empathy. Build with precision. Enhance with AI.",
 };
+```
 
-console.log("Ready to build the future! 🌟");
+I build complete digital products — from wireframe to deployment — with a sharp eye for user experience and a passion for integrating AI into modern web stacks.
+
+---
+
+## ◈ Tech Stack
+
+**Frontend**
+`React` `TypeScript` `JavaScript` `Tailwind CSS` `Material UI` `HTML5` `CSS3`
+
+**Backend**
+`Node.js` `Express.js` `Java` `Python` `RESTful APIs`
+
+**Databases**
+`PostgreSQL` `MongoDB` `MySQL` `Sequelize` `Mongoose`
+
+**AI / ML**
+`TensorFlow` `Keras` `LangChain` `Neural Networks` `Deep Learning`
+
+**Design**
+`Figma` `Adobe XD` `Wireframing` `Prototyping` `Design Systems`
+
+**Tooling**
+`Git` `GitHub` `VS Code` `CI/CD`
+
+---
+
+## ◈ GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ahmadmustafa01&show_icons=true&theme=transparent&title_color=FF6B00&icon_color=FF9A3C&text_color=ffffff&border_color=FF6B0033&hide_border=false&count_private=true" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmustafa01&layout=compact&theme=transparent&title_color=FF6B00&text_color=ffffff&border_color=FF6B0033&hide_border=false" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadmustafa01&theme=transparent&ring=FF6B00&fire=FF9A3C&currStreakLabel=FF6B00&sideLabels=FF9A3C&dates=888888&border=FF6B0033" />
+
+</div>
+
+---
+
+## ◈ How I Work
+
+```
+  Research        →   Understand the problem deeply
+  Design          →   Map user journeys, prototype fast
+  Build           →   Clean, scalable, tested code
+  Enhance         →   Layer in AI for smarter UX
+  Ship & Iterate  →   Release, measure, refine
 ```
 
 ---
 
-## 🛠️ Technical Arsenal
+## ◈ Philosophy
 
-### **Frontend Mastery**
-<div align="left">
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,materialui" />
-</div>
-
-**Languages:** JavaScript • TypeScript • HTML5 • CSS3  
-**Frameworks:** ReactJS • Responsive UI Design  
-**Styling:** Material UI • Tailwind CSS • Modern CSS Techniques
-
-### **Backend Engineering**
-<div align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,cpp,python" />
-</div>
-
-**Languages:** Java • JavaScript • C++ • Python  
-**Runtime & Frameworks:** Node.js • Express.js • RESTful APIs
-
-### **Database Technologies**
-<div align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-</div>
-
-**SQL:** PostgreSQL (Sequelize ORM)  
-**NoSQL:** MongoDB (Mongoose ODM)  
-**Query Languages:** SQL • NoSQL
-
-### **AI/ML & Data Science**
-<div align="left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</div>
-
-**Core Concepts:** Supervised & Unsupervised Learning • Neural Networks • Deep Learning  
-**Frameworks:** TensorFlow • Keras • LangChain  
-**Applications:** Intelligent Web Features • Data-Driven Solutions
-
-### **Design & User Experience**
-<div align="left">
-<img src="https://skillicons.dev/icons?i=figma,xd" />
-</div>
-
-**Design Philosophy:** User-Centered Design • Design Thinking  
-**Tools:** Figma • Adobe XD • Wireframing & Prototyping  
-**Specialties:** Responsive Web Design • Mobile-First Approach
-
-### **Development Tools & Workflow**
-<div align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</div>
-
-**Version Control:** Git • GitHub • Git Flow  
-**Development:** VS Code • Modern Development Workflows
-
----
-
-## 🎯 What I Do Best
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🎨 UI/UX Design  →  💻 Full-Stack Dev  →  🤖 AI Integration │
-│                                                             │
-│        Creating end-to-end digital experiences             │
-│           that users love and businesses need              │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-**🚀 Product Development:** From concept to deployment, I build complete digital products  
-**🎨 User Experience:** Crafting intuitive interfaces that delight users  
-**🤖 AI Integration:** Bringing intelligence to web applications  
-**📱 Responsive Design:** Pixel-perfect experiences across all devices  
-**⚡ Performance:** Optimized, scalable solutions that grow with your business
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ahmadmustafa.com-6366F1?style=for-the-badge&logoColor=white)](https://ahmadmustafa.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadmustafa01)
-[![Instagram](https://img.shields.io/badge/Instagram-@ahmadbuttmusic-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmadbuttmusic)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadmustafa01@gmail.com)
-
-</div>
-
----
-
-## 💭 Philosophy & Approach
-
-<div align="center">
-
-> *"Great products are born at the intersection of user needs, technical excellence, and creative vision"*
-
-```ascii
-    Design Thinking + Engineering Excellence + AI Innovation
-                              ↓
-                    Products that make a difference
-```
-
-</div>
-
-### My Process:
-🔍 **Research** → Understanding user needs and market gaps  
-🎨 **Design** → Creating intuitive and beautiful experiences  
-⚡ **Develop** → Building robust, scalable solutions  
-🤖 **Enhance** → Integrating AI for smarter functionality  
-🚀 **Deploy** → Launching with performance and accessibility in mind  
-📈 **Iterate** → Continuous improvement based on user feedback
+> *"Great products live at the intersection of user needs, technical craft, and creative vision."*
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=16&fontColor=fff&animation=twinkling" />
-</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:FF9A3C&height=80&section=footer&fontColor=fff" />
 
-<div align="center">
-<sub>✨ Always learning, always building, always pushing boundaries ✨</sub>
+<sub>Always learning. Always building. Always shipping.</sub>
+
 </div>
