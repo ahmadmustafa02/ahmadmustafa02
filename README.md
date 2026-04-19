@@ -5,12 +5,13 @@
 <br/>
 
 ```
-░█████╗░██╗  ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗██████╗
-██╔══██╗██║  ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝██╔══██╗
-███████║███████║███████╗██║     ██║     ██║   ██║██╔████╔██║█████╗  ██║  ██║
-██╔══██║██╔══██║╚════██║██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝  ██║  ██║
-██║  ██║██║  ██║███████║███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚═════╝
+   ###    ##     ## ##     ##    ###    ########  
+  ## ##   ##     ## ###   ###   ## ##   ##     ## 
+ ##   ##  ##     ## #### ####  ##   ##  ##     ## 
+##     ## ######### ## ### ## ##     ## ##     ## 
+######### ##     ## ##     ## ######### ##     ## 
+##     ## ##     ## ##     ## ##     ## ##     ## 
+##     ## ##     ## ##     ## ##     ## ########  
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=18&duration=3000&pause=1000&color=FF6B2B&center=true&vCenter=true&width=600&height=50&lines=Product+Full-Stack+Engineer;AI+%2F+ML+Integration+Specialist;UI%2FUX+%E2%80%94+From+Concept+to+Code" />
@@ -54,19 +55,21 @@ I build **complete digital products** — from pixel-perfect interfaces to intel
 
 ### &nbsp;◈ &nbsp;Frontend
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,materialui&theme=dark" />
-</div>
-
-&emsp;`React` &emsp;`TypeScript` &emsp;`JavaScript` &emsp;`HTML5` &emsp;`CSS3` &emsp;`Tailwind CSS` &emsp;`Material UI`
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 <br/>
 
 ### &nbsp;◈ &nbsp;Backend
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,java&theme=dark" />
-</div>
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 &emsp;`Node.js` &emsp;`Express.js` &emsp;`Java` &emsp;`RESTful APIs`
 
@@ -74,9 +77,9 @@ I build **complete digital products** — from pixel-perfect interfaces to intel
 
 ### &nbsp;◈ &nbsp;Databases
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&theme=dark" />
-</div>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 &emsp;`PostgreSQL` &emsp;`MongoDB` &emsp;`MySQL` &emsp;`Sequelize` &emsp;`Mongoose`
 
@@ -84,9 +87,8 @@ I build **complete digital products** — from pixel-perfect interfaces to intel
 
 ### &nbsp;◈ &nbsp;AI / ML
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 &emsp;`TensorFlow` &emsp;`Keras` &emsp;`LangChain` &emsp;`Neural Networks` &emsp;`Deep Learning`
 
@@ -94,9 +96,10 @@ I build **complete digital products** — from pixel-perfect interfaces to intel
 
 ### &nbsp;◈ &nbsp;Design & Tools
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" />
-</div>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 &emsp;`Figma` &emsp;`Adobe XD` &emsp;`Git` &emsp;`GitHub` &emsp;`VS Code`
 
