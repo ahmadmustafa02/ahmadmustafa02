@@ -1,110 +1,177 @@
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!--                  AHMAD MUSTAFA — GitHub Profile README          -->
+<!-- ─────────────────────────────────────────────────────────────── -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=EA580C&height=4&width=100%" />
-
-# Ahmad Mustafa
-### Product Full-Stack Engineer · AI Enthusiast · UI/UX Designer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=F97316&center=true&vCenter=true&width=480&lines=Building+intelligent+web+products;Full+Stack+%7C+AI%2FML+%7C+UI%2FUX;Code+with+purpose%2C+design+with+empathy" />
-
-[![Portfolio](https://img.shields.io/badge/🌐_ahmadmustafa.com-EA580C?style=flat-square&logoColor=white)](https://ahmadmustafa.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadmustafa01)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmadmustafa01@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ahmadbuttmusic)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=EA580C&height=120&section=header&text=Ahmad%20Mustafa&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Product%20Full-Stack%20Engineer%20%C2%B7%20AI%2FML%20%C2%B7%20UI%2FUX&descAlignY=58&descColor=fed7aa&animation=fadeIn" />
 
 </div>
 
+&nbsp;
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Available%20for%20Projects-EA580C?style=flat-square&labelColor=1c0a00)
+![Location](https://img.shields.io/badge/Location-Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-c2410c?style=flat-square&labelColor=1c0a00)
+![Focus](https://img.shields.io/badge/Focus-AI%20Powered%20Web-f97316?style=flat-square&labelColor=1c0a00)
+
+</div>
+
+&nbsp;
+
 ---
 
-## `> whoami`
+### `whoami`
 
-```typescript
-const ahmad: Developer = {
-  role:         "Product Full-Stack Engineer",
-  location:     "Pakistan 🇵🇰",
-  stack:        ["React", "Node.js", "Python", "AI/ML"],
-  design:       true,  // yes, both
-  philosophy:   "Code with purpose, design with empathy",
-  currentFocus: "AI-powered web experiences",
+```ts
+const ahmad: Engineer = {
+  name:     "Ahmad Mustafa",
+  role:     "Product Full-Stack Engineer",
+  location: "Pakistan",
+  stack:    ["React", "Node.js", "Python", "AI/ML"],
+  design:   true,
+  focus:    "Intelligent, end-to-end digital products",
+  belief:   "Code with purpose. Design with empathy. Innovate with AI.",
 };
-
-// always learning, always shipping 🔥
 ```
 
+I build complete digital products from wireframe to deployment — fast, beautiful, and intelligent.
+
 ---
 
-## `> tech --list`
+### `stack --list`
+
+<table>
+<tr>
+<td valign="top" width="33%">
 
 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+```
+React          ████████████  core
+TypeScript     ████████████  core
+JavaScript     ███████████░
+Tailwind CSS   ██████████░░
+Material UI    █████████░░░
+HTML · CSS     ████████████
+```
+
+</td>
+<td valign="top" width="33%">
 
 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+```
+Node.js        ████████████  core
+Express.js     ████████████  core
+Python         ██████████░░
+Java           ████████░░░░
+C++            ███████░░░░░
+REST APIs      ████████████
+```
+
+</td>
+<td valign="top" width="33%">
+
+**AI / ML**
+```
+TensorFlow     ██████████░░
+LangChain      ██████████░░
+Keras          █████████░░░
+Deep Learning  ████████░░░░
+Neural Nets    ████████░░░░
+```
+
+</td>
+</tr>
+<tr>
+<td valign="top">
 
 **Databases**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**AI / ML**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+</td>
+<td valign="top">
 
-**Design & Tools**
+**Design**
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+![UX](https://img.shields.io/badge/UI%2FUX-Design-EA580C?style=flat-square&labelColor=1c0a00)
+
+</td>
+<td valign="top">
+
+**Tooling**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+</td>
+</tr>
+</table>
+
 ---
 
-## `> process --show`
+### `workflow --show`
 
 ```
-  Research  →  Design  →  Build  →  AI-enhance  →  Deploy  →  Iterate
-     🔍           🎨         ⚡          🤖            🚀          📈
+  01 Research     →   02 Design     →   03 Build
+  Understanding       Intuitive         Robust &
+  user needs          interfaces        scalable
+
+  04 AI-enhance   →   05 Deploy     →   06 Iterate
+  Smarter             Ship fast,        Data-driven
+  features            reliably          improvement
 ```
 
-Understanding user needs · Intuitive interfaces · Robust solutions · Smarter features · Ship fast · Improve always
-
 ---
 
-## `> philosophy`
-
-> *"Great products live at the intersection of user needs, technical excellence, and creative vision."*
-
-I build complete digital products end-to-end — from wireframe to deployment — with a focus on performance, accessibility, and intelligent features. Whether it's integrating an LLM into a web app or designing a pixel-perfect UI, I care about the **whole experience**.
-
-
----
-
-## `> connect`
+### `stats --github`
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 🌐 Portfolio | [ahmadmustafa.com](https://ahmadmustafa.com) |
-| 💼 LinkedIn | [in/ahmadmustafa01](https://linkedin.com/in/ahmadmustafa01) |
-| 📧 Email | [ahmadmustafa01@gmail.com](mailto:ahmadmustafa01@gmail.com) |
-| 📸 Instagram | [@ahmadbuttmusic](https://instagram.com/ahmadbuttmusic) |
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ahmadmustafa01&show_icons=true&theme=dark&hide_border=true&bg_color=080808&title_color=F97316&icon_color=EA580C&text_color=9C9189&ring_color=C2410C" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmustafa01&layout=compact&theme=dark&hide_border=true&bg_color=080808&title_color=F97316&text_color=9C9189" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadmustafa01&bg_color=080808&color=F97316&line=EA580C&point=C2410C&area=true&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
+### `quote`
+
+> *"Great products are born at the intersection of user needs, technical excellence, and creative vision."*
+
+---
+
+### `connect`
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=EA580C&height=4&width=100%" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahmadmustafa.com-EA580C?style=for-the-badge&labelColor=1c0a00&logo=safari&logoColor=white)](https://ahmadmustafa.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadmustafa01)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadmustafa01@gmail.com)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-@ahmadbuttmusic-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmadbuttmusic)
 
-`always learning · always building · always shipping 🔥`
+</div>
+
+&nbsp;
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=EA580C&height=80&section=footer&fontColor=ffffff&animation=fadeIn" />
 
 </div>
