@@ -1,151 +1,135 @@
 <div align="center">
 
-# Product Full-Stack Engineer & AI Enthusiast 🚀
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Intelligent+Web+Solutions;Full+Stack+%7C+AI%2FML+%7C+UI%2FUX;Crafting+User-Centered+Experiences;Transforming+Ideas+into+Reality" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=200&section=header&text=Ahmad%20Mustafa&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Product%20Thinker&descAlignY=60&descSize=18&descColor=FFD8B0" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/ahmadmustafa.com-FF6B35?style=for-the-badge&logo=safari&logoColor=white)](https://ahmadmustafa.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadmustafa01)
+[![Email](https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadmustafabutt.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmadmustafa02)
 
 </div>
 
 ---
 
-## 💫 Professional Summary
+## 👨‍💻 About Me
 
-```javascript
-const ahmadMustafa = {
-    role: "Product Full-Stack Engineer",
-    location: "🇵🇰 Pakistan",
-    passion: ["Building Scalable Products", "AI-Powered Solutions", "Exceptional UX"],
-    expertise: ["Full Stack Development", "AI/ML Engineering", "UI/UX Design"],
-    philosophy: "Code with purpose, design with empathy, innovate with AI",
-    currentFocus: "Integrating AI into modern web experiences"
+```ts
+const ahmad = {
+  role     : "Full Stack Engineer & AI Builder",
+  location : "Pakistan 🇵🇰",
+  education: "BS Computer Science @ COMSATS University Islamabad (CGPA: 3.60/4.0)",
+  focus    : ["AI-Powered SaaS", "Full Stack Web Apps", "Product Development"],
+  currently: "Building things at the intersection of engineering and AI",
+  email    : "ahmadmustafabutt.dev@gmail.com",
 };
-
-console.log("Ready to build the future! 🌟");
 ```
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Tech Stack
 
-### **Frontend Mastery**
-<div align="left">
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,materialui" />
-</div>
+### Languages & Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-FF6B35?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-FF8C55?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFAD80?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-FF6B35?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-FF8C55?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-FFAD80?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF6B35?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF8C55?style=flat-square&logo=css3&logoColor=white)
 
-**Languages:** JavaScript • TypeScript • HTML5 • CSS3  
-**Frameworks:** ReactJS • Responsive UI Design  
-**Styling:** Material UI • Tailwind CSS • Modern CSS Techniques
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-FF6B35?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-FF8C55?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFAD80?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-FF6B35?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FF8C55?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-FFAD80?style=flat-square&logo=supabase&logoColor=white)
 
-### **Backend Engineering**
-<div align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,cpp,python" />
-</div>
+### AI / ML
+![OpenAI](https://img.shields.io/badge/OpenAI_API-FF6B35?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-FF8C55?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FFAD80?style=flat-square&logo=chainlink&logoColor=white)
 
-**Languages:** Java • JavaScript • C++ • Python  
-**Runtime & Frameworks:** Node.js • Express.js • RESTful APIs
-
-### **Database Technologies**
-<div align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-</div>
-
-**SQL:** PostgreSQL (Sequelize ORM)  
-**NoSQL:** MongoDB (Mongoose ODM)  
-**Query Languages:** SQL • NoSQL
-
-### **AI/ML & Data Science**
-<div align="left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</div>
-
-**Core Concepts:** Supervised & Unsupervised Learning • Neural Networks • Deep Learning  
-**Frameworks:** TensorFlow • Keras • LangChain  
-**Applications:** Intelligent Web Features • Data-Driven Solutions
-
-### **Design & User Experience**
-<div align="left">
-<img src="https://skillicons.dev/icons?i=figma,xd" />
-</div>
-
-**Design Philosophy:** User-Centered Design • Design Thinking  
-**Tools:** Figma • Adobe XD • Wireframing & Prototyping  
-**Specialties:** Responsive Web Design • Mobile-First Approach
-
-### **Development Tools & Workflow**
-<div align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</div>
-
-**Version Control:** Git • GitHub • Git Flow  
-**Development:** VS Code • Modern Development Workflows
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-FF6B35?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FF8C55?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FFAD80?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-FF6B35?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FF8C55?style=flat-square&logo=figma&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-FFAD80?style=flat-square&logo=jest&logoColor=white)
 
 ---
 
-## 🎯 What I Do Best
+## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🎨 UI/UX Design  →  💻 Full-Stack Dev  →  🤖 AI Integration │
-│                                                             │
-│        Creating end-to-end digital experiences             │
-│           that users love and businesses need              │
-└─────────────────────────────────────────────────────────────┘
-```
+### 🎯 ShortlistAI
+> AI-powered resume optimizer & interview prep tool
 
-</div>
+- Analyzes resumes vs. job descriptions with Gemini 2.5 Flash
+- Rewrites bullets for ATS optimization, detects skill gaps
+- Generates personalized prep roadmaps & interview questions
+- Full SaaS with auth, history dashboard, PDF extraction
 
-**🚀 Product Development:** From concept to deployment, I build complete digital products  
-**🎨 User Experience:** Crafting intuitive interfaces that delight users  
-**🤖 AI Integration:** Bringing intelligence to web applications  
-**📱 Responsive Design:** Pixel-perfect experiences across all devices  
-**⚡ Performance:** Optimized, scalable solutions that grow with your business
+**Stack:** `React 18` `TypeScript` `Supabase` `Gemini AI` `Tailwind CSS`
 
----
+</td>
+<td width="50%">
 
-## 🤝 Let's Connect & Collaborate
+### 📡 Axon
+> Autonomous AI news aggregation & daily briefing agent
 
-<div align="center">
+- Ingests Hacker News, Dev.to, Reddit via REST APIs
+- LLM-based filtering with Trend Velocity detection
+- Personalized daily email briefings via Resend
+- Fully serverless — zero manual intervention
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ahmadmustafa.com-6366F1?style=for-the-badge&logoColor=white)](https://ahmadmustafa.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadmustafa01)
-[![Instagram](https://img.shields.io/badge/Instagram-@ahmadbuttmusic-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmadbuttmusic)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadmustafa01@gmail.com)
+**Stack:** `React` `TypeScript` `Supabase` `PostgreSQL` `Gemini AI`
 
-</div>
-
----
-
-## 💭 Philosophy & Approach
-
-<div align="center">
-
-> *"Great products are born at the intersection of user needs, technical excellence, and creative vision"*
-
-```ascii
-    Design Thinking + Engineering Excellence + AI Innovation
-                              ↓
-                    Products that make a difference
-```
-
-</div>
-
-### My Process:
-🔍 **Research** → Understanding user needs and market gaps  
-🎨 **Design** → Creating intuitive and beautiful experiences  
-⚡ **Develop** → Building robust, scalable solutions  
-🤖 **Enhance** → Integrating AI for smarter functionality  
-🚀 **Deploy** → Launching with performance and accessibility in mind  
-📈 **Iterate** → Continuous improvement based on user feedback
+</td>
+</tr>
+</table>
 
 ---
 
+## 💼 Experience
+
+**Full Stack Developer Intern — Placentek** *(Remote · Jul–Dec 2025)*
+- Built full-stack features for user onboarding & settings dashboard across 6 agile sprints
+- Reduced API response time by ~35% via PostgreSQL indexing & query restructuring
+- Improved Lighthouse performance score by ~20 points through reusable React + Tailwind components
+
+---
+
+## 📜 Certifications
+
+- 🎓 **Machine Learning Specialization** — DeepLearning.AI
+- 🎨 **Google UX Design Professional Certificate** — Google
+- 🤖 **Introduction to Generative AI** — Google Cloud
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=16&fontColor=fff&animation=twinkling" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ahmadmustafa02&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF6B35&icon_color=FF8C55&text_color=FFD8B0&border_color=FF6B35&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmustafa02&layout=compact&theme=dark&bg_color=0d1117&title_color=FF6B35&text_color=FFD8B0&border_color=FF6B35" />
+
 </div>
 
 ---
 
 <div align="center">
-<sub>✨ Always learning, always building, always pushing boundaries ✨</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=100&section=footer&animation=fadeIn" />
+
+*"Build with purpose. Ship with quality. Iterate with data."*
+
 </div>
