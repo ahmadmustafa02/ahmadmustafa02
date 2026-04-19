@@ -1,126 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=200&section=header&text=Ahmad%20Mustafa&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Product%20Thinker&descAlignY=60&descSize=18&descColor=FFD8B0" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=EA580C&height=4&width=100%" />
 
-<br/>
+# Ahmad Mustafa
+### Product Full-Stack Engineer · AI Enthusiast · UI/UX Designer
 
-[![Portfolio](https://img.shields.io/badge/ahmadmustafa.com-FF6B35?style=for-the-badge&logo=safari&logoColor=white)](https://ahmadmustafa.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadmustafa01)
-[![Email](https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadmustafabutt.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmadmustafa02)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=F97316&center=true&vCenter=true&width=480&lines=Building+intelligent+web+products;Full+Stack+%7C+AI%2FML+%7C+UI%2FUX;Code+with+purpose%2C+design+with+empathy" />
+
+[![Portfolio](https://img.shields.io/badge/🌐_ahmadmustafa.com-EA580C?style=flat-square&logoColor=white)](https://ahmadmustafa.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadmustafa01)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmadmustafa01@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ahmadbuttmusic)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `> whoami`
 
-```ts
-const ahmad = {
-  role     : "Full Stack Engineer & AI Builder",
-  location : "Pakistan 🇵🇰",
-  education: "BS Computer Science @ COMSATS University Islamabad (CGPA: 3.60/4.0)",
-  focus    : ["AI-Powered SaaS", "Full Stack Web Apps", "Product Development"],
-  currently: "Building things at the intersection of engineering and AI",
-  email    : "ahmadmustafabutt.dev@gmail.com",
+```typescript
+const ahmad: Developer = {
+  role:         "Product Full-Stack Engineer",
+  location:     "Pakistan 🇵🇰",
+  stack:        ["React", "Node.js", "Python", "AI/ML"],
+  design:       true,  // yes, both
+  philosophy:   "Code with purpose, design with empathy",
+  currentFocus: "AI-powered web experiences",
 };
+
+// always learning, always shipping 🔥
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## `> tech --list`
 
-### Languages & Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-FF6B35?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-FF8C55?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFAD80?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-FF6B35?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-FF8C55?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-FFAD80?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FF6B35?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF8C55?style=flat-square&logo=css3&logoColor=white)
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-FF6B35?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-FF8C55?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFAD80?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-FF6B35?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-FF8C55?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-FFAD80?style=flat-square&logo=supabase&logoColor=white)
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### AI / ML
-![OpenAI](https://img.shields.io/badge/OpenAI_API-FF6B35?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-FF8C55?style=flat-square&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-FFAD80?style=flat-square&logo=chainlink&logoColor=white)
+**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-FF6B35?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FF8C55?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FFAD80?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-FF6B35?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-FF8C55?style=flat-square&logo=figma&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-FFAD80?style=flat-square&logo=jest&logoColor=white)
+**AI / ML**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+**Design & Tools**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## `> process --show`
 
-<table>
-<tr>
-<td width="50%">
+```
+  Research  →  Design  →  Build  →  AI-enhance  →  Deploy  →  Iterate
+     🔍           🎨         ⚡          🤖            🚀          📈
+```
 
-### 🎯 ShortlistAI
-> AI-powered resume optimizer & interview prep tool
-
-- Analyzes resumes vs. job descriptions with Gemini 2.5 Flash
-- Rewrites bullets for ATS optimization, detects skill gaps
-- Generates personalized prep roadmaps & interview questions
-- Full SaaS with auth, history dashboard, PDF extraction
-
-**Stack:** `React 18` `TypeScript` `Supabase` `Gemini AI` `Tailwind CSS`
-
-</td>
-<td width="50%">
-
-### 📡 Axon
-> Autonomous AI news aggregation & daily briefing agent
-
-- Ingests Hacker News, Dev.to, Reddit via REST APIs
-- LLM-based filtering with Trend Velocity detection
-- Personalized daily email briefings via Resend
-- Fully serverless — zero manual intervention
-
-**Stack:** `React` `TypeScript` `Supabase` `PostgreSQL` `Gemini AI`
-
-</td>
-</tr>
-</table>
+Understanding user needs · Intuitive interfaces · Robust solutions · Smarter features · Ship fast · Improve always
 
 ---
 
-## 💼 Experience
+## `> philosophy`
 
-**Full Stack Developer Intern — Placentek** *(Remote · Jul–Dec 2025)*
-- Built full-stack features for user onboarding & settings dashboard across 6 agile sprints
-- Reduced API response time by ~35% via PostgreSQL indexing & query restructuring
-- Improved Lighthouse performance score by ~20 points through reusable React + Tailwind components
+> *"Great products live at the intersection of user needs, technical excellence, and creative vision."*
 
----
-
-## 📜 Certifications
-
-- 🎓 **Machine Learning Specialization** — DeepLearning.AI
-- 🎨 **Google UX Design Professional Certificate** — Google
-- 🤖 **Introduction to Generative AI** — Google Cloud
+I build complete digital products end-to-end — from wireframe to deployment — with a focus on performance, accessibility, and intelligent features. Whether it's integrating an LLM into a web app or designing a pixel-perfect UI, I care about the **whole experience**.
 
 ---
 
-## 📊 GitHub Stats
+## `> github --stats`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ahmadmustafa02&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF6B35&icon_color=FF8C55&text_color=FFD8B0&border_color=FF6B35&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmustafa02&layout=compact&theme=dark&bg_color=0d1117&title_color=FF6B35&text_color=FFD8B0&border_color=FF6B35" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=ahmadmustafa01&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=F97316&icon_color=EA580C&text_color=A3A3A3" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmustafa01&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=F97316&text_color=A3A3A3" />
+
+</div>
+
+---
+
+## `> connect`
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 🌐 Portfolio | [ahmadmustafa.com](https://ahmadmustafa.com) |
+| 💼 LinkedIn | [in/ahmadmustafa01](https://linkedin.com/in/ahmadmustafa01) |
+| 📧 Email | [ahmadmustafa01@gmail.com](mailto:ahmadmustafa01@gmail.com) |
+| 📸 Instagram | [@ahmadbuttmusic](https://instagram.com/ahmadbuttmusic) |
 
 </div>
 
@@ -128,8 +113,8 @@ const ahmad = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=100&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=EA580C&height=4&width=100%" />
 
-*"Build with purpose. Ship with quality. Iterate with data."*
+`always learning · always building · always shipping 🔥`
 
 </div>
