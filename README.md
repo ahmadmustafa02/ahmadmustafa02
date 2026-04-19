@@ -55,7 +55,7 @@ I build **complete digital products** — from pixel-perfect interfaces to intel
 ### &nbsp;◈ &nbsp;Frontend
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,materialui&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,materialui&theme=dark" />
 </div>
 
 &emsp;`React` &emsp;`TypeScript` &emsp;`JavaScript` &emsp;`HTML5` &emsp;`CSS3` &emsp;`Tailwind CSS` &emsp;`Material UI`
@@ -65,10 +65,10 @@ I build **complete digital products** — from pixel-perfect interfaces to intel
 ### &nbsp;◈ &nbsp;Backend
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,java&theme=dark" />
 </div>
 
-&emsp;`Node.js` &emsp;`Express.js` &emsp;`Java` &emsp;`Python` &emsp;`RESTful APIs`
+&emsp;`Node.js` &emsp;`Express.js` &emsp;`Java` &emsp;`RESTful APIs`
 
 <br/>
 
@@ -95,7 +95,7 @@ I build **complete digital products** — from pixel-perfect interfaces to intel
 ### &nbsp;◈ &nbsp;Design & Tools
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=figma,xd,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" />
 </div>
 
 &emsp;`Figma` &emsp;`Adobe XD` &emsp;`Git` &emsp;`GitHub` &emsp;`VS Code`
