@@ -83,16 +83,6 @@ Understanding user needs · Intuitive interfaces · Robust solutions · Smarter 
 
 I build complete digital products end-to-end — from wireframe to deployment — with a focus on performance, accessibility, and intelligent features. Whether it's integrating an LLM into a web app or designing a pixel-perfect UI, I care about the **whole experience**.
 
----
-
-## `> github --stats`
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=ahmadmustafa01&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=F97316&icon_color=EA580C&text_color=A3A3A3" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmustafa01&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=F97316&text_color=A3A3A3" />
-
-</div>
 
 ---
 
