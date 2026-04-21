@@ -55,7 +55,7 @@ I build **complete digital products** — from pixel-perfect interfaces to intel
 ### &nbsp;◈ &nbsp;Frontend
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,materialui&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,mui&theme=dark" />
 </div>
 
 &emsp;`React` &emsp;`TypeScript` &emsp;`JavaScript` &emsp;`HTML5` &emsp;`CSS3` &emsp;`Tailwind CSS` &emsp;`Material UI`
@@ -65,7 +65,9 @@ I build **complete digital products** — from pixel-perfect interfaces to intel
 ### &nbsp;◈ &nbsp;Backend
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,java&theme=dark" />
+
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 </div>
 
 &emsp;`Node.js` &emsp;`Express.js` &emsp;`Java` &emsp;`RESTful APIs`
@@ -75,7 +77,7 @@ I build **complete digital products** — from pixel-perfect interfaces to intel
 ### &nbsp;◈ &nbsp;Databases
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" />
+<img src="" />
 </div>
 
 &emsp;`PostgreSQL` &emsp;`MongoDB` &emsp;`MySQL` &emsp;`Sequelize` &emsp;`Mongoose`
@@ -96,7 +98,8 @@ I build **complete digital products** — from pixel-perfect interfaces to intel
 
 <div align="left">
 <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" />
-</div>
+
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)</div>
 
 &emsp;`Figma` &emsp;`Adobe XD` &emsp;`Git` &emsp;`GitHub` &emsp;`VS Code`
 
