@@ -49,61 +49,32 @@ I build **complete digital products** — from pixel-perfect interfaces to intel
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
----
 
-## 🛠️ Technical Arsenal
+## 🛠️ Tech Stack
 
-### **Frontend Mastery**
-<div align="left">
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,materialui" />
+<div align="center">
+
+| Frontend | Backend | Databases |
+|:---:|:---:|:---:|
+| React • TypeScript • JavaScript | Node.js • Express.js • Java • Python | PostgreSQL • MongoDB • MySQL |
+| Tailwind CSS • Material UI • HTML5/CSS3 | RESTful APIs • C++ | Sequelize • Mongoose |
+
+| AI / ML | Design | Tooling |
+|:---:|:---:|:---:|
+| TensorFlow • Keras • LangChain | Figma • Adobe XD | Git • GitHub • VS Code |
+| Neural Networks • Deep Learning | Wireframing • Mobile-First | Git Flow |
+
 </div>
 
-**Languages:** JavaScript • TypeScript • HTML5 • CSS3  
-**Frameworks:** ReactJS • Responsive UI Design  
-**Styling:** Material UI • Tailwind CSS • Modern CSS Techniques
+<br/>
 
-### **Backend Engineering**
-<div align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,cpp,python" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,mui&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,java,python,cpp,mongodb,postgres,mysql&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,figma,git,github,vscode&theme=dark" />
 </div>
-
-**Languages:** Java • JavaScript • C++ • Python  
-**Runtime & Frameworks:** Node.js • Express.js • RESTful APIs
-
-### **Database Technologies**
-<div align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-</div>
-
-**SQL:** PostgreSQL (Sequelize ORM)  
-**NoSQL:** MongoDB (Mongoose ODM)  
-**Query Languages:** SQL • NoSQL
-
-### **AI/ML & Data Science**
-<div align="left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</div>
-
-**Core Concepts:** Supervised & Unsupervised Learning • Neural Networks • Deep Learning  
-**Frameworks:** TensorFlow • Keras • LangChain  
-**Applications:** Intelligent Web Features • Data-Driven Solutions
-
-### **Design & User Experience**
-<div align="left">
-<img src="https://skillicons.dev/icons?i=figma,xd" />
-</div>
-
-**Design Philosophy:** User-Centered Design • Design Thinking  
-**Tools:** Figma • Adobe XD • Wireframing & Prototyping  
-**Specialties:** Responsive Web Design • Mobile-First Approach
-
-### **Development Tools & Workflow**
-<div align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</div>
-
-**Version Control:** Git • GitHub • Git Flow  
-**Development:** VS Code • Modern Development Workflows
 
 ---
 
