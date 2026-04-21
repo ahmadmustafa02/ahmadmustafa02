@@ -49,65 +49,63 @@ I build **complete digital products** — from pixel-perfect interfaces to intel
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <br/>
+---
 
-## &nbsp;`02` &nbsp; Tech Stack
+## 🛠️ Technical Arsenal
 
-### &nbsp;◈ &nbsp;Frontend
-
+### **Frontend Mastery**
 <div align="left">
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,mui&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,materialui" />
 </div>
 
-&emsp;`React` &emsp;`TypeScript` &emsp;`JavaScript` &emsp;`HTML5` &emsp;`CSS3` &emsp;`Tailwind CSS` &emsp;`Material UI`
+**Languages:** JavaScript • TypeScript • HTML5 • CSS3  
+**Frameworks:** ReactJS • Responsive UI Design  
+**Styling:** Material UI • Tailwind CSS • Modern CSS Techniques
 
-<br/>
-
-### &nbsp;◈ &nbsp;Backend
-
+### **Backend Engineering**
 <div align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,java&theme=dark" />
-
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,cpp,python" />
 </div>
 
-&emsp;`Node.js` &emsp;`Express.js` &emsp;`Java` &emsp;`RESTful APIs`
+**Languages:** Java • JavaScript • C++ • Python  
+**Runtime & Frameworks:** Node.js • Express.js • RESTful APIs
 
-<br/>
-
-### &nbsp;◈ &nbsp;Databases
-
+### **Database Technologies**
 <div align="left">
-<img src="" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
 </div>
 
-&emsp;`PostgreSQL` &emsp;`MongoDB` &emsp;`MySQL` &emsp;`Sequelize` &emsp;`Mongoose`
+**SQL:** PostgreSQL (Sequelize ORM)  
+**NoSQL:** MongoDB (Mongoose ODM)  
+**Query Languages:** SQL • NoSQL
 
-<br/>
-
-### &nbsp;◈ &nbsp;AI / ML
-
+### **AI/ML & Data Science**
 <div align="left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </div>
 
-&emsp;`TensorFlow` &emsp;`Keras` &emsp;`LangChain` &emsp;`Neural Networks` &emsp;`Deep Learning`
+**Core Concepts:** Supervised & Unsupervised Learning • Neural Networks • Deep Learning  
+**Frameworks:** TensorFlow • Keras • LangChain  
+**Applications:** Intelligent Web Features • Data-Driven Solutions
 
-<br/>
-
-### &nbsp;◈ &nbsp;Design & Tools
-
+### **Design & User Experience**
 <div align="left">
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,xd" />
+</div>
 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)</div>
+**Design Philosophy:** User-Centered Design • Design Thinking  
+**Tools:** Figma • Adobe XD • Wireframing & Prototyping  
+**Specialties:** Responsive Web Design • Mobile-First Approach
 
-&emsp;`Figma` &emsp;`Adobe XD` &emsp;`Git` &emsp;`GitHub` &emsp;`VS Code`
+### **Development Tools & Workflow**
+<div align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</div>
 
-<br/>
+**Version Control:** Git • GitHub • Git Flow  
+**Development:** VS Code • Modern Development Workflows
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
+---
 
 ## &nbsp;`03` &nbsp; What I Bring
 
