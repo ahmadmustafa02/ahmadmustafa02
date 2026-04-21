@@ -140,13 +140,26 @@ Optimized architecture, clean code, and systems designed to grow with the produc
 
 ## &nbsp;`04` &nbsp; Process
 
+<div align="center">
+
+| | Stage | Description |
+|:---:|:---|:---|
+| `01` | **Research** | Understand users, define the problem |
+| `02` | **Design** | Wireframes, prototypes, visual language |
+| `03` | **Develop** | Clean, scalable, production-ready code |
+| `04` | **AI-Enhance** | Integrate intelligence where it matters |
+| `05` | **Deploy** | Ship with confidence, monitor carefully |
+| `06` | **Iterate** | Learn from data, refine and repeat |
+
 ```
-  RESEARCH → DESIGN → DEVELOP → AI-ENHANCE → DEPLOY → ITERATE
-     ↑                                                      ↓
-     └──────────────── user feedback loop ─────────────────┘
+  01 RESEARCH → 02 DESIGN → 03 DEVELOP → 04 AI-ENHANCE → 05 DEPLOY → 06 ITERATE
+       ↑                                                                     ↓
+       └─────────────────────── user feedback loop ────────────────────────┘
 ```
 
-Every product I touch follows this loop — grounded in user needs, refined by data, and built to last.
+*Every product I touch follows this loop — grounded in user needs, refined by data, and built to last.*
+
+</div>
 
 <br/>
 
