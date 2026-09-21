@@ -15,7 +15,7 @@
 
 <img src="assets/header-about.svg" width="100%" alt="About Me" />
 
-<div style="font-size: 20px; line-height: 1.75; color: #F4F2FF;">
+<div style="font-size: 17px; line-height: 1.65; color: #E8E4F8;">
 
 Full-Stack AI Engineer and undergraduate researcher building AI-powered systems and publishing
 empirical research on AI-agent software security. I work across the stack, React and Next.js on
@@ -38,127 +38,13 @@ two empirical studies on how AI-authored code introduces risk at scale.
 
 <img src="assets/header-stack.svg" width="100%" alt="Tech Stack" />
 
-<div style="font-size: 18px; line-height: 1.65; color: #E8E4F8;">
-
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
-<td width="50%" valign="top" style="padding: 0 10px 16px 0;">
-
-**Languages**  
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#22D3EE18;border:1px solid #22D3EE88;color:#E8E4F8;font-size:17px;">JavaScript (ES6+)</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#22D3EE18;border:1px solid #22D3EE88;color:#E8E4F8;font-size:17px;">TypeScript</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#22D3EE18;border:1px solid #22D3EE88;color:#E8E4F8;font-size:17px;">Python</code>
-
-</td>
-<td width="50%" valign="top" style="padding: 0 0 16px 10px;">
-
-**AI & Agentic Systems**  
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#C026D318;border:1px solid #C026D388;color:#E8E4F8;font-size:17px;">Groq API</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#C026D318;border:1px solid #C026D388;color:#E8E4F8;font-size:17px;">OpenAI API</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#C026D318;border:1px solid #C026D388;color:#E8E4F8;font-size:17px;">Gemini API</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#C026D318;border:1px solid #C026D388;color:#E8E4F8;font-size:17px;">Anthropic Claude API</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#C026D318;border:1px solid #C026D388;color:#E8E4F8;font-size:17px;">LangChain</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#C026D318;border:1px solid #C026D388;color:#E8E4F8;font-size:17px;">Model Context Protocol</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#C026D318;border:1px solid #C026D388;color:#E8E4F8;font-size:17px;">Multi-Agent Orchestration</code>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top" style="padding-bottom: 16px;">
-
-**Frontend**  
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#7C3AED18;border:1px solid #7C3AED88;color:#E8E4F8;font-size:17px;">React.js</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#7C3AED18;border:1px solid #7C3AED88;color:#E8E4F8;font-size:17px;">Next.js</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#7C3AED18;border:1px solid #7C3AED88;color:#E8E4F8;font-size:17px;">Flutter</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#7C3AED18;border:1px solid #7C3AED88;color:#E8E4F8;font-size:17px;">Tailwind CSS</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#7C3AED18;border:1px solid #7C3AED88;color:#E8E4F8;font-size:17px;">HTML5</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#7C3AED18;border:1px solid #7C3AED88;color:#E8E4F8;font-size:17px;">CSS3</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#7C3AED18;border:1px solid #7C3AED88;color:#E8E4F8;font-size:17px;">Jest</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#7C3AED18;border:1px solid #7C3AED88;color:#E8E4F8;font-size:17px;">React Testing Library</code>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding: 0 10px 16px 0;">
-
-**Backend**  
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#9333EA18;border:1px solid #9333EA88;color:#E8E4F8;font-size:17px;">Node.js</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#9333EA18;border:1px solid #9333EA88;color:#E8E4F8;font-size:17px;">Express.js</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#9333EA18;border:1px solid #9333EA88;color:#E8E4F8;font-size:17px;">RESTful APIs</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#9333EA18;border:1px solid #9333EA88;color:#E8E4F8;font-size:17px;">WebSockets</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#9333EA18;border:1px solid #9333EA88;color:#E8E4F8;font-size:17px;">JWT Auth</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#9333EA18;border:1px solid #9333EA88;color:#E8E4F8;font-size:17px;">BullMQ</code>
-
-</td>
-<td width="50%" valign="top" style="padding: 0 0 16px 10px;">
-
-**Databases**  
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#22D3EE18;border:1px solid #22D3EE88;color:#E8E4F8;font-size:17px;">PostgreSQL</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#22D3EE18;border:1px solid #22D3EE88;color:#E8E4F8;font-size:17px;">MongoDB</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#22D3EE18;border:1px solid #22D3EE88;color:#E8E4F8;font-size:17px;">MySQL</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#22D3EE18;border:1px solid #22D3EE88;color:#E8E4F8;font-size:17px;">Redis</code>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-**DevOps & Tools**  
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#A78BFA18;border:1px solid #A78BFA88;color:#E8E4F8;font-size:17px;">Git</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#A78BFA18;border:1px solid #A78BFA88;color:#E8E4F8;font-size:17px;">GitHub</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#A78BFA18;border:1px solid #A78BFA88;color:#E8E4F8;font-size:17px;">GitHub Actions</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#A78BFA18;border:1px solid #A78BFA88;color:#E8E4F8;font-size:17px;">Vercel</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#A78BFA18;border:1px solid #A78BFA88;color:#E8E4F8;font-size:17px;">Docker</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#A78BFA18;border:1px solid #A78BFA88;color:#E8E4F8;font-size:17px;">Azure</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#A78BFA18;border:1px solid #A78BFA88;color:#E8E4F8;font-size:17px;">Postman</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#A78BFA18;border:1px solid #A78BFA88;color:#E8E4F8;font-size:17px;">Figma</code>
-<code style="display:inline-block;margin:6px 8px 0 0;padding:8px 14px;border-radius:999px;background:#A78BFA18;border:1px solid #A78BFA88;color:#E8E4F8;font-size:17px;">Agile/Scrum</code>
-
-</td>
-</tr>
-</table>
-
-</div>
+<img src="assets/stack.svg" width="100%" alt="Technology stack grouped by category: languages, AI and agentic systems, frontend, backend, databases, and DevOps tools" />
 
 <br/>
 
 <img src="assets/header-experience.svg" width="100%" alt="Experience" />
 
-<div style="font-size: 18px; line-height: 1.7; color: #E8E4F8;">
-
-### Arbisoft · AI-Focused Software Engineering Intern  
-<sub style="color:#B9B4D6;font-size:16px;">Aug 2026 – Oct 2026</sub>
-
-Shipped **Warrant**, a self-proposed capstone: a provenance-based tool-authorization security layer for AI agents, approved by mentor review.
-
-<code style="display:inline-block;margin:8px 8px 0 0;padding:6px 12px;border-radius:999px;background:#7C3AED18;border:1px solid #7C3AED88;font-size:16px;">Agentic AI</code>
-<code style="display:inline-block;margin:8px 8px 0 0;padding:6px 12px;border-radius:999px;background:#7C3AED18;border:1px solid #7C3AED88;font-size:16px;">MCP</code>
-<code style="display:inline-block;margin:8px 8px 0 0;padding:6px 12px;border-radius:999px;background:#7C3AED18;border:1px solid #7C3AED88;font-size:16px;">Multi-Agent Orchestration</code>
-
-<br/><br/>
-
-### Placentek · Full Stack Developer  
-<sub style="color:#B9B4D6;font-size:16px;">Jul 2026 – Present</sub>
-
-Built a production **RAG shopping assistant** grounded in live inventory data, plus a shared **React + Tailwind** component library used across the product.
-
-<code style="display:inline-block;margin:8px 8px 0 0;padding:6px 12px;border-radius:999px;background:#C026D318;border:1px solid #C026D388;font-size:16px;">Next.js</code>
-<code style="display:inline-block;margin:8px 8px 0 0;padding:6px 12px;border-radius:999px;background:#C026D318;border:1px solid #C026D388;font-size:16px;">OpenAI</code>
-<code style="display:inline-block;margin:8px 8px 0 0;padding:6px 12px;border-radius:999px;background:#C026D318;border:1px solid #C026D388;font-size:16px;">Redis</code>
-<code style="display:inline-block;margin:8px 8px 0 0;padding:6px 12px;border-radius:999px;background:#C026D318;border:1px solid #C026D388;font-size:16px;">PostgreSQL</code>
-
-<br/><br/>
-
-### AWS Student Builder Group, CUI · AI Lead  
-<sub style="color:#B9B4D6;font-size:16px;">Sep 2026 – Present</sub>
-
-Leads AI-focused workshops and hands-on sessions for the student builder community, mentoring peers on applied AI and cloud projects.
-
-<code style="display:inline-block;margin:8px 8px 0 0;padding:6px 12px;border-radius:999px;background:#22D3EE18;border:1px solid #22D3EE88;font-size:16px;">Mentorship</code>
-<code style="display:inline-block;margin:8px 8px 0 0;padding:6px 12px;border-radius:999px;background:#22D3EE18;border:1px solid #22D3EE88;font-size:16px;">Workshops</code>
-<code style="display:inline-block;margin:8px 8px 0 0;padding:6px 12px;border-radius:999px;background:#22D3EE18;border:1px solid #22D3EE88;font-size:16px;">Cloud & AI</code>
-
-</div>
+<img src="assets/timeline.svg" width="100%" alt="Work experience timeline across Arbisoft, Placentek, and AWS Student Builder Group" />
 
 <br/>
 
@@ -219,7 +105,7 @@ Leads AI-focused workshops and hands-on sessions for the student builder communi
 
 <div align="center">
 
-<div style="font-size: 20px; line-height: 1.75; color: #F4F2FF;">
+<div style="font-size: 17px; line-height: 1.65; color: #E8E4F8;">
 
 I'm always up for a conversation about agent security, RAG systems in production, or a gnarly
 debugging story. Reach out, I read everything that lands in these inboxes.
