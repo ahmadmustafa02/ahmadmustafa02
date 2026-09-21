@@ -4,22 +4,18 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ahmadmustafa02-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/ahmadmustafa02)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmadmustafabutt-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/ahmadmustafabutt)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ahmadmustafa.me-7c3aed?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117)](https://ahmadmustafa.me)
-[![Email](https://img.shields.io/badge/Email-ahmadmustafabutt.dev-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ahmadmustafabutt.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ahmadmustafa02-161622?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=161622)](https://github.com/ahmadmustafa02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmadmustafabutt-161622?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=161622)](https://linkedin.com/in/ahmadmustafabutt)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahmadmustafa.me-161622?style=for-the-badge&logo=safari&logoColor=22D3EE&labelColor=161622)](https://ahmadmustafa.me)
+[![Email](https://img.shields.io/badge/Email-ahmadmustafabutt.dev-161622?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=161622)](mailto:ahmadmustafabutt.dev@gmail.com)
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="assets/metrics.svg" width="100%" alt="Highlight metrics: 60 out of 60 attack stop rate, 17727 merged pull requests studied, 35 percent faster API responses, plus 20 point Lighthouse score, 11.6k star repository merged into" />
 </div>
 
 <br/>
 
 <img src="assets/header-about.svg" width="100%" alt="About Me" />
+
+<div style="font-size: 17px; line-height: 1.65; color: #E8E4F8;">
 
 Full-Stack AI Engineer and undergraduate researcher building AI-powered systems and publishing
 empirical research on AI-agent software security. I work across the stack, React and Next.js on
@@ -27,15 +23,16 @@ the front end, Node.js and PostgreSQL on the back, and spend most of my attentio
 between: making sure the AI agents sitting on top of that stack cannot be talked into doing
 something they were not authorized to do.
 
-That interest turned into Warrant, a security layer that stopped 60 out of 60 tuned attacks against
-AI agents in a measured adversarial lab, and into two empirical studies on how AI-authored code
-introduces risk at scale, one of them analyzing 17,727 merged pull requests.
+That interest turned into **Warrant**, a provenance-based security layer for AI agents, and into
+two empirical studies on how AI-authored code introduces risk at scale.
 
 - 🔭 Currently building **RAG and agentic systems** as a Full Stack Developer at **Placentek**
 - 🛡️ Currently researching **AI-agent software security**, provenance-based tool authorization and dependency risk
 - 🎓 Leading AI initiatives as **AI Lead** at the **AWS Student Builder Group, COMSATS University Islamabad**
 - 📍 Based in **Islamabad, Pakistan**, BS Computer Science, class of 2027
 - 💬 Ask me about **AI agent security, MCP, RAG pipelines, or prompt-injection defense**
+
+</div>
 
 <br/>
 
@@ -108,13 +105,17 @@ introduces risk at scale, one of them analyzing 17,727 merged pull requests.
 
 <div align="center">
 
+<div style="font-size: 17px; line-height: 1.65; color: #E8E4F8;">
+
 I'm always up for a conversation about agent security, RAG systems in production, or a gnarly
 debugging story. Reach out, I read everything that lands in these inboxes.
 
-[![GitHub](https://img.shields.io/badge/GitHub-ahmadmustafa02-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/ahmadmustafa02)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmadmustafabutt-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/ahmadmustafabutt)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ahmadmustafa.me-7c3aed?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117)](https://ahmadmustafa.me)
-[![Email](https://img.shields.io/badge/Email-ahmadmustafabutt.dev-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ahmadmustafabutt.dev@gmail.com)
+</div>
+
+[![GitHub](https://img.shields.io/badge/GitHub-ahmadmustafa02-161622?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=161622)](https://github.com/ahmadmustafa02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmadmustafabutt-161622?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=161622)](https://linkedin.com/in/ahmadmustafabutt)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahmadmustafa.me-161622?style=for-the-badge&logo=safari&logoColor=22D3EE&labelColor=161622)](https://ahmadmustafa.me)
+[![Email](https://img.shields.io/badge/Email-ahmadmustafabutt.dev-161622?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=161622)](mailto:ahmadmustafabutt.dev@gmail.com)
 
 </div>
 
