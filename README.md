@@ -1,241 +1,143 @@
-<!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4c1d95,75:7c3aed,100:06b6d4&height=230&section=header&text=Ahmad%20Mustafa&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%E2%80%A2%20AI%20Agent%20Security%20Researcher&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
-
-<a href="https://ahmadmustafa.me">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=640&height=45&lines=I+build+AI+systems+that+ship+to+production;I+stop+AI+agents+from+getting+hijacked;I+publish+research+on+AI-agent+security;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+LLMs" alt="Typing SVG"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:2B2B2B&height=220&section=header&text=Ahmad%20Mustafa&fontSize=52&fontColor=D4AF37&fontAlignY=42&desc=Full%20Stack%20AI%20Engineer%20%C2%B7%20Agent%20Security%20Researcher&descAlignY=62&descSize=17&descColor=F5F1E8&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<a href="https://ahmadmustafa.me"><img src="https://img.shields.io/badge/Portfolio-ahmadmustafa.me-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/ahmadmustafabutt"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ahmadmustafabutt.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.npmjs.com/package/@warrant-lab/guard"><img src="https://img.shields.io/badge/npm-@warrant--lab-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=19&duration=3200&pause=900&color=D4AF37&center=true&vCenter=true&width=680&lines=Building+AI+systems+that+survive+adversarial+pressure;Attacking+my+own+agents+before+someone+else+does;COMSATS+%E2%80%9927+%7C+Researching+under+Dr.+Basit+Raza)](https://git.io/typing-svg)
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=ahmadmustafa02&label=Profile%20Views&color=7c3aed&style=flat-square" alt="profile views"/>
-<img src="https://img.shields.io/badge/📍-Islamabad,%20Pakistan-06b6d4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-22c55e?style=flat-square"/>
+<a href="mailto:ahmadmustafabutt.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-2B2B2B?style=flat-square&logo=gmail&logoColor=D4AF37" /></a>
+<a href="https://linkedin.com/in/ahmadmustafabutt"><img src="https://img.shields.io/badge/-LinkedIn-2B2B2B?style=flat-square&logo=linkedin&logoColor=D4AF37" /></a>
+<a href="https://github.com/ahmadmustafa02"><img src="https://img.shields.io/badge/-GitHub-2B2B2B?style=flat-square&logo=github&logoColor=D4AF37" /></a>
+<a href="https://ahmadmustafa.me"><img src="https://img.shields.io/badge/-Portfolio-2B2B2B?style=flat-square&logo=safari&logoColor=D4AF37" /></a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-<!-- ============================== ABOUT ============================== -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+### About
+
+I build production AI systems, then try to break them &mdash; and I write up what happens either way. My work sits at the intersection of full-stack engineering and applied security research: RAG pipelines, multi-agent orchestration, and the guardrails that keep an AI agent from being hijacked by its own inputs. Currently a 7th-semester CS student at COMSATS University Islamabad, working under Dr. Basit Raza on empirical software-security research.
+
+<br/>
+
+### Currently
 
 <table>
 <tr>
-<td width="58%" valign="top">
-
-```typescript
-const ahmad = {
-  role:       "Full Stack AI Engineer",
-  based:      "Islamabad, Pakistan 🇵🇰",
-  studying:   "BS Computer Science @ COMSATS (2023 to 2027)",
-  currently: {
-    building: "RAG shopping assistant @ Placentek",
-    leading:  "AI Lead @ AWS Student Builder Group, CUI",
-    research: "Security of AI-agent-authored code",
-  },
-  shipped:    ["Warrant", "CodePulse", "Pipedream PRs"],
-  obsessedWith: [
-    "Agentic AI & MCP",
-    "Prompt-injection defense",
-    "Evals that actually mean something",
-  ],
-  motto: "Measure it, or it didn't happen.",
-};
-```
-
-</td>
-<td width="42%" valign="top">
-
-🛡️ I build **security layers for AI agents** so they can't be hijacked by hidden instructions.
-
-🧠 I ship **production LLM systems**: RAG, multi-agent orchestration, MCP servers.
-
-🔬 I publish **empirical research** on how AI coding agents affect software security.
-
-🎤 I run **AI workshops** and mentor student builders at CUI.
-
-⚡ Fun fact: my AI guard went **60 / 60** on attacks it was tuned for, and **15 / 15** on ones it had never seen.
-
-</td>
+<td width="70"><img src="./assets/placentek.png" width="46"/></td>
+<td><b>Full Stack Developer</b> &mdash; Placentek <sub>Jul 2026 &ndash; Present</sub><br/>Shipping a production RAG shopping assistant and a reusable component library used across the app.</td>
+</tr>
+<tr>
+<td width="70"><img src="./assets/aws-sbg.png" width="46"/></td>
+<td><b>AI Lead</b> &mdash; AWS Student Builder Group, CUI <sub>Sep 2026 &ndash; Present</sub><br/>Running workshops and mentoring students on applied AI and cloud development.</td>
 </tr>
 </table>
 
-<!-- ============================== IMPACT ============================== -->
-## 📊 Impact in Numbers
+<br/>
 
-<div align="center">
-
-| 🛡️ Attacks Stopped | 📉 Hijack Rate Cut | 🔬 PRs Analyzed | ⚡ API Speedup | 🚀 Lighthouse Boost |
-|:---:|:---:|:---:|:---:|:---:|
-| **60 / 60** | **17 → 0** | **17,727** | **~35%** | **+20 pts** |
-| with Warrant guard on | hijacked runs | in my security study | via PostgreSQL indexing | from my component library |
-
-</div>
-
-<!-- ============================== PROJECTS ============================== -->
-## 🚀 Featured Projects
+### Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Warrant
-<sub>**TypeScript · Groq AI · npm**</sub>
+**Warrant** &mdash; *TypeScript, Groq AI, npm*
+<br/>
+A security layer that stops AI agents from being hijacked by malicious instructions hidden in the content they process &mdash; by attacking the agent in a sandbox first, then locking down what it's allowed to do.
 
-Open-source security layer that stops AI agents from being **hijacked by malicious instructions** hidden in the content they read. It attacks the agent in a sandbox to find weak spots, then enforces permissions derived **only** from the user's original request.
+- 60/60 attacks stopped with the guard active, vs. 17/60 hijacked with it off
+- 15/15 on a held-out attack set never used to tune the rules
+- Published as [`@warrant-lab/guard`](https://npmjs.com) and [`@warrant-lab/cli`](https://npmjs.com) on npm
 
-- 🔒 CLI proxy + framework-free guard intercepting every sensitive tool call
-- 🧪 Adversarial lab: 60 attacks, 6 families, 24 benign tasks
-- ✅ **60/60** attack-stop · **15/15** on held-out attacks
-- 📦 Published as `@warrant-lab/guard` and `@warrant-lab/cli`
-
-<p>
-<a href="https://github.com/ahmadmustafa02/warrant"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
-<a href="https://www.npmjs.com/package/@warrant-lab/guard"><img src="https://img.shields.io/badge/npm-guard-CB3837?style=flat-square&logo=npm"/></a>
-<a href="https://www.npmjs.com/package/@warrant-lab/cli"><img src="https://img.shields.io/badge/npm-cli-CB3837?style=flat-square&logo=npm"/></a>
-</p>
+[Repo →](https://github.com/ahmadmustafa02/warrant)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 CodePulse
-<sub>**React · Node.js · PostgreSQL · BullMQ · Groq AI**</sub>
+**CodePulse** &mdash; *React, Node.js, PostgreSQL, Groq AI*
+<br/>
+An AI-powered GitHub App that reviews pull requests through an event-driven pipeline, with a defense gate against prompt-injection sitting in front of the model.
 
-Production-style **AI GitHub App** that reviews pull requests through an event-driven pipeline, blocks prompt-injection attempts, and grades its own review quality.
+- Queue-based pipeline (BullMQ/Redis) with HMAC-verified webhooks and full tenant isolation
+- Embeddings + logistic-regression gate catching prompt-injection before it reaches the LLM
+- Trace Viewer for step-by-step, fault-localized debugging of every review job
 
-- ⚙️ Async BullMQ/Redis queue, HMAC webhooks, retries, dead-letter
-- 🧱 Pre-LLM injection gate (embeddings + logistic classifier)
-- 📏 50-case benchmark to pick the model on precision, not hype
-- 🧭 Trace Viewer with automatic fault localization
-
-<p>
-<a href="https://github.com/ahmadmustafa02/codepulse"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/></a>
-<img src="https://img.shields.io/badge/Multi--tenant-isolated-7c3aed?style=flat-square"/>
-<img src="https://img.shields.io/badge/Security-dashboard-06b6d4?style=flat-square"/>
-</p>
+[Repo →](https://github.com/ahmadmustafa02/codepulse)
 
 </td>
 </tr>
 </table>
 
-<!-- ============================== RESEARCH ============================== -->
-## 🔬 Research
+<br/>
 
-> ### 📄 Dependency Vulnerability Introduction in AI-Agent-Authored Pull Requests
-> Empirical study of **17,727 merged PRs**. AI coding agents introduce known-vulnerable dependencies at roughly **double the odds** of human developers **(OR = 2.06)**, with a self-identified clustering artifact reported openly as a methodological caution.
-
-> ### 📄 Generalization & Explainability of AI Vulnerability Detection Across Projects
-> ML vs DL vulnerability detectors across **9 open-source projects**. Under cross-project shift, **predictive performance collapses far faster than explanation stability**. Holm-Bonferroni corrected throughout.
-
-<!-- ============================== EXPERIENCE ============================== -->
-## 💼 Experience
+### Experience
 
 <table>
-<tr>
-<td>🏢</td>
-<td><b>Placentek</b><br/><sub>Full Stack Developer</sub></td>
-<td><sub>Jul 2026 to Present</sub></td>
-<td>RAG AI shopping assistant grounded in live inventory · JWT auth · 35% faster APIs</td>
-</tr>
-<tr>
-<td>☁️</td>
-<td><b>AWS Student Builder Group, CUI</b><br/><sub>AI Lead</sub></td>
-<td><sub>Sep 2026 to Present</sub></td>
-<td>Workshops on LLMs & AI tooling · mentoring student builders</td>
-</tr>
-<tr>
-<td>🤖</td>
-<td><b>Arbisoft</b><br/><sub>AI-Focused SWE Intern</sub></td>
-<td><sub>Aug 2026 to Oct 2026</sub></td>
-<td>Agentic AI (skills, memory, hooks, MCP) · shipped Warrant as capstone</td>
-</tr>
+<tr><td width="70"><img src="./assets/arbisoft.png" width="46"/></td>
+<td>
+
+**AI-Focused Software Engineering Intern** &mdash; Arbisoft &nbsp;·&nbsp; *Aug &ndash; Oct 2026*
+Self-proposed and shipped **Warrant** as the program's capstone; worked through full-stack fundamentals into multi-agent orchestration and MCP server/client integration.
+
+</td></tr>
+<tr><td width="70"><img src="./assets/placentek.png" width="46"/></td>
+<td>
+
+**Full Stack Developer** &mdash; Placentek &nbsp;·&nbsp; *Jul 2026 &ndash; Present*
+RAG shopping assistant grounded in live inventory data; JWT auth and indexed Postgres queries cutting API response time ~35%; a component library that lifted Lighthouse scores by 20 points.
+
+</td></tr>
+<tr><td width="70"><img src="./assets/aws-sbg.png" width="46"/></td>
+<td>
+
+**AI Lead** &mdash; AWS Student Builder Group, CUI &nbsp;·&nbsp; *Sep 2026 &ndash; Present*
+Designing and delivering sessions on AI development and cloud tooling; mentoring student builders through their own AI projects.
+
+</td></tr>
 </table>
 
-<!-- ============================== OPEN SOURCE ============================== -->
-## 🌍 Open Source & Wins
+<br/>
 
-<div align="center">
+### Research
 
-<a href="https://github.com/PipedreamHQ/pipedream/pull/21505"><img src="https://img.shields.io/badge/Pipedream-PR%20%2321505%20Merged-8957e5?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/PipedreamHQ/pipedream/pull/21452"><img src="https://img.shields.io/badge/Pipedream-PR%20%2321452%20Merged-8957e5?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/🥈%20Silver-Google%20Antigravity%20AI%20Seekho%202026-4285F4?style=for-the-badge"/>
+**Software Security During AI-Assisted Development: Dependency Vulnerability Introduction in AI-Agent-Authored PRs**
+Empirical study of 17,727 merged pull requests &mdash; AI coding agents introduce known-vulnerable dependencies at roughly double the odds of human developers (OR = 2.06), with a self-identified clustering artifact reported as a methodological caution. [GitHub →](https://github.com/ahmadmustafa02)
 
-<sub>Contributed to <b>Pipedream</b> (11.6k ⭐, acquired by Workday): fixed Adobe PDF Services extraction and added a Jira Download Attachment action.</sub>
+**Generalization and Explainability of AI-Based Vulnerability Detection Across Projects**
+Cross-project comparison of ML/DL vulnerability detectors across nine open-source projects, with Holm-Bonferroni corrected testing throughout &mdash; predictive performance degrades far more than explanation stability under distribution shift. [GitHub →](https://github.com/ahmadmustafa02)
 
-</div>
+<br/>
 
-<!-- ============================== TECH STACK ============================== -->
-## 🛠️ Tech Arsenal
+### Open Source
 
-<div align="center">
+<img src="./assets/pipedream.png" width="22" valign="middle"/> &nbsp;Merged contributions into **Pipedream** (11.6k★, 5.7k forks, acquired by Workday) &mdash; a fix restoring Adobe PDF Services extraction, and a new Jira *Download Attachment* action.
+&nbsp;&nbsp;[PR #21505](https://github.com/PipedreamHQ/pipedream/pull/21505) &nbsp;·&nbsp; [PR #21452](https://github.com/PipedreamHQ/pipedream/pull/21452)
 
-**💻 Languages & Frontend**
+Silver tier &mdash; Google Antigravity AI Seekho Hackathon 2026.
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,flutter,tailwind,html,css,jest&perline=10" />
+<br/>
 
-**⚙️ Backend & Data**
+### Stack
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,redis&perline=10" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,postgres,mongodb,redis,docker,git,github,vercel,azure,figma&theme=dark" />
+</p>
 
-**🚢 DevOps & Tools**
+<sub>AI & Agentic &mdash; Groq API · OpenAI API · Gemini API · Anthropic Claude API · LangChain · Model Context Protocol · Multi-Agent Orchestration</sub>
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,azure,vercel,postman,figma&perline=10" />
-
-**🧠 AI & Agentic Systems**
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
-<img src="https://img.shields.io/badge/Multi--Agent-7c3aed?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
-</div>
-
-<!-- ============================== STATS ============================== -->
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadmustafa02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=06b6d4&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmustafa02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=ahmadmustafa02&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=06b6d4&currStreakLabel=a78bfa"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadmustafa02&bg_color=0d1117&color=a78bfa&line=7c3aed&point=06b6d4&area=true&area_color=7c3aed&hide_border=true&radius=10"/>
-
-</div>
-
-<!-- ============================== CERTS ============================== -->
-## 🎓 Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-DeepLearning.AI-FF6F00?style=flat-square&logo=coursera&logoColor=white"/>
-<img src="https://img.shields.io/badge/Intro%20to%20MCP-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/UX%20Design%20Professional-Google-4285F4?style=flat-square&logo=google&logoColor=white"/>
-
-</div>
-
-<!-- ============================== FOOTER ============================== -->
+<br/>
 <br/>
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ahmadmustafa02&show_icons=true&theme=transparent&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=F5F1E8&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadmustafa02&theme=transparent&hide_border=true&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=F5F1E8&currStreakNum=F5F1E8&sideNums=F5F1E8&dates=F5F1E8" height="165"/>
+</div>
 
-### 💬 Let's build something secure, smart, and shipped.
+<br/>
 
-<a href="mailto:ahmadmustafabutt.dev@gmail.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=06B6D4&center=true&vCenter=true&width=480&lines=Open+to+AI+%2F+Full+Stack+roles;Happy+to+collab+on+AI+security+research;Drop+a+message+anytime+%F0%9F%9A%80" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,25:7c3aed,60:4c1d95,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2B2B,100:0D0D0D&height=90&section=footer" width="100%"/>
 
 </div>
