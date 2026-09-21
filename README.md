@@ -3,20 +3,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF6B2B,100:FF2E63&height=220&section=header&text=Ahmad%20Mustafa&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%20%E2%80%A2%20%20AI%20Security%20Researcher&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=FF6B2B&center=true&vCenter=true&width=720&height=45&lines=I+build+AI+agents+that+can't+be+hijacked.;Shipping+LLM+products+to+production.;Publishing+research+on+AI-agent+security.;60%2F60+attacks+stopped.+0+excuses." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=FF6B2B&center=true&vCenter=true&width=720&height=45&lines=I+build+AI+agents+that+can't+be+hijacked.;Shipping+LLM+products+to+production.;Publishing+research+on+AI-agent+security." alt="Typing SVG" />
 
 <br/>
 
 <a href="https://ahmadmustafa.me"><img src="https://img.shields.io/badge/Portfolio-ahmadmustafa.me-FF6B2B?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/ahmadmustafabutt"><img src="https://img.shields.io/badge/LinkedIn-ahmadmustafabutt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ahmadmustafabutt.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.npmjs.com/org/warrant-lab"><img src="https://img.shields.io/badge/npm-@warrant--lab-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ahmadmustafa02&label=Profile%20Views&color=FF6B2B&style=flat-square" />
-<img src="https://img.shields.io/badge/Based%20in-Islamabad%2C%20PK-0D1117?style=flat-square&logo=googlemaps&logoColor=FF6B2B" />
-<img src="https://img.shields.io/badge/Open%20to-Collaborations-2EA043?style=flat-square" />
 
 </div>
 
@@ -41,20 +34,6 @@ const ahmad = {
 };
 ```
 
-I build **AI-powered systems that ship**, and then I try to break them. My work lives where full-stack engineering meets applied LLMs and security: agents that respect the user's intent, pipelines that are observable end to end, and evaluations that report the honest numbers, not just the flattering ones.
-
-<br/>
-
-<!-- ============================== IMPACT NUMBERS ============================== -->
-<div align="center">
-
-| 🛡️ Attacks Stopped | 🔬 PRs Analyzed | ⚡ API Speedup | 🚀 Lighthouse Gain | 🌍 OSS Merged Into |
-|:---:|:---:|:---:|:---:|:---:|
-| **60 / 60** | **17,727** | **~35%** | **+20 pts** | **Pipedream (11.6k⭐)** |
-| Warrant guard, plus 15/15 held-out | AI-agent vs human dependency study | PostgreSQL indexing at Placentek | Reusable React + Tailwind library | Acquired by Workday |
-
-</div>
-
 <br/>
 
 <!-- ============================== FEATURED PROJECTS ============================== -->
@@ -73,9 +52,9 @@ Stops agents from being hijacked by malicious instructions hidden in the content
 - 🧪 Adversarial lab: 60 tuned attacks, 6 families, 24 benign tasks
 - 📊 **60/60** stopped with guard on (vs **17/60** hijacked with it off)
 - 🎯 **15/15** on a held-out set never used for tuning
-- 📦 Published: `@warrant-lab/guard` and `@warrant-lab/cli`
+- 📦 Published as installable npm packages
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white"/> <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white"/> <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
