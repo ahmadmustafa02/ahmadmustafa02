@@ -15,7 +15,7 @@
 
 <img src="assets/header-about.svg" width="100%" alt="About Me" />
 
-<div style="font-size: 18px; line-height: 1.7; color: #E8E4F8;">
+<div style="font-size: 20px; line-height: 1.75; color: #F4F2FF;">
 
 Full-Stack AI Engineer and undergraduate researcher building AI-powered systems and publishing
 empirical research on AI-agent software security. I work across the stack, React and Next.js on
@@ -105,7 +105,7 @@ two empirical studies on how AI-authored code introduces risk at scale.
 
 <div align="center">
 
-<div style="font-size: 18px; line-height: 1.7; color: #E8E4F8;">
+<div style="font-size: 20px; line-height: 1.75; color: #F4F2FF;">
 
 I'm always up for a conversation about agent security, RAG systems in production, or a gnarly
 debugging story. Reach out, I read everything that lands in these inboxes.
