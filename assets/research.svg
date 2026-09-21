@@ -1,0 +1,79 @@
+<svg width="1600" height="512" viewBox="0 0 1600 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Research publications</title>
+
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05060B"/>
+      <stop offset="55%" stop-color="#0A0E1A"/>
+      <stop offset="100%" stop-color="#0B0915"/>
+    </linearGradient>
+
+    <linearGradient id="brandGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="45%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#C026D3"/>
+    </linearGradient>
+
+    <linearGradient id="brandGradSoft" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#7C3AED" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#C026D3" stop-opacity="0.9"/>
+    </linearGradient>
+
+    <linearGradient id="panelGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141B30"/>
+      <stop offset="100%" stop-color="#0D1220"/>
+    </linearGradient>
+
+    <linearGradient id="edgeFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7C3AED" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#C026D3" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="glowViolet" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowMagenta" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#C026D3" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#C026D3" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="dotGrid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.4" cy="1.4" r="1.4" fill="#7C3AED" opacity="0.16"/>
+    </pattern>
+
+    <pattern id="circuitTex" width="120" height="120" patternUnits="userSpaceOnUse">
+      <path d="M0 60 H40 V20 H90" stroke="#7C3AED" stroke-opacity="0.10" stroke-width="1.4" fill="none"/>
+      <path d="M120 30 H80 V90 H30" stroke="#22D3EE" stroke-opacity="0.08" stroke-width="1.4" fill="none"/>
+      <circle cx="40" cy="20" r="2.4" fill="#7C3AED" opacity="0.18"/>
+      <circle cx="90" cy="20" r="2.4" fill="#7C3AED" opacity="0.12"/>
+      <circle cx="80" cy="90" r="2.4" fill="#22D3EE" opacity="0.16"/>
+      <circle cx="30" cy="90" r="2.4" fill="#22D3EE" opacity="0.10"/>
+    </pattern>
+
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="cardShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+    
+  </defs>
+
+  <rect width="1600" height="512" fill="url(#bgGrad)"/>
+  <rect width="1600" height="512" fill="url(#circuitTex)"/>
+  <rect width="1600" height="512" fill="url(#dotGrid)"/><rect x="40" y="30" width="1520" height="215" rx="18" ry="18" fill="url(#panelGrad)" stroke="#241C3D" stroke-width="1.4" /><rect x="40" y="30" width="5" height="215" rx="2.5" fill="#C026D3" opacity="0.85"/><circle cx="92" cy="52" r="26" fill="#C026D3" fill-opacity="0.12" stroke="#C026D3" stroke-opacity="0.5" stroke-width="1.2"/><g transform="translate(76,36) scale(1.333)" fill="none" stroke="#C026D3" stroke-width="1.20" stroke-linecap="round" stroke-linejoin="round"><path d="M9.5 2.8h5M10.2 3v6.1L4.7 18a2.4 2.4 0 0 0 2.1 3.6h10.4a2.4 2.4 0 0 0 2.1-3.6L13.8 9.1V3"/><path d="M7.6 15h8.8"/></g><text x="132" y="56" font-family="'SFMono-Regular','Cascadia Code','Consolas','Liberation Mono',Menlo,monospace" font-size="12.5" font-weight="600" letter-spacing="0.5" fill="#C026D3">EMPIRICAL STUDY · 17,727 MERGED PULL REQUESTS</text><text x="132" y="82" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19.5" font-weight="800" fill="#F4F2FF">Software Security During AI-Assisted Software Development: Dependency Vulnerability</text><text x="132" y="109" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19.5" font-weight="800" fill="#F4F2FF">Introduction in AI-Agent-Authored Pull Requests</text><text x="132" y="144" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" fill="#7A7594" letter-spacing="0.5">KEY FINDING</text><text x="132" y="164" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#B9B4D6">AI coding agents introduce known-vulnerable dependencies at roughly double the odds of human developers</text><text x="132" y="185" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#B9B4D6">(OR = 2.06); a self-identified clustering artifact is corrected and reported as a methodological caution</text><text x="132" y="206" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#B9B4D6">rather than smoothed over.</text><rect x="40" y="267" width="1520" height="215" rx="18" ry="18" fill="url(#panelGrad)" stroke="#241C3D" stroke-width="1.4" /><rect x="40" y="267" width="5" height="215" rx="2.5" fill="#22D3EE" opacity="0.85"/><circle cx="92" cy="289" r="26" fill="#22D3EE" fill-opacity="0.12" stroke="#22D3EE" stroke-opacity="0.5" stroke-width="1.2"/><g transform="translate(76,273) scale(1.333)" fill="none" stroke="#22D3EE" stroke-width="1.20" stroke-linecap="round" stroke-linejoin="round"><path d="M9.5 2.8h5M10.2 3v6.1L4.7 18a2.4 2.4 0 0 0 2.1 3.6h10.4a2.4 2.4 0 0 0 2.1-3.6L13.8 9.1V3"/><path d="M7.6 15h8.8"/></g><text x="132" y="293" font-family="'SFMono-Regular','Cascadia Code','Consolas','Liberation Mono',Menlo,monospace" font-size="12.5" font-weight="600" letter-spacing="0.5" fill="#22D3EE">EMPIRICAL COMPARISON · NINE OPEN-SOURCE PROJECTS</text><text x="132" y="319" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19.5" font-weight="800" fill="#F4F2FF">Generalization and Explainability of AI-Based Software Vulnerability Detection Across</text><text x="132" y="346" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19.5" font-weight="800" fill="#F4F2FF">Projects</text><text x="132" y="381" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" fill="#7A7594" letter-spacing="0.5">KEY FINDING</text><text x="132" y="401" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#B9B4D6">Comparing ML and DL vulnerability detectors under cross-project distribution shift shows predictive</text><text x="132" y="422" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#B9B4D6">performance degrades far more than explanation stability, with Holm-Bonferroni corrected hypothesis</text><text x="132" y="443" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Inter','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14.5" fill="#B9B4D6">testing throughout.</text>
+</svg>
