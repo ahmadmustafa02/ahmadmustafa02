@@ -1,103 +1,97 @@
+<!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF6B2B,100:FF2E63&height=220&section=header&text=Ahmad%20Mustafa&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%20%E2%80%A2%20%20AI%20Security%20Researcher&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=FF6B2B&center=true&vCenter=true&width=720&height=45&lines=I+build+AI+agents+that+can't+be+hijacked.;Shipping+LLM+products+to+production.;Publishing+research+on+AI-agent+security.;60%2F60+attacks+stopped.+0+excuses." alt="Typing SVG" />
 
 <br/>
 
-```
-░█████╗░██╗  ██╗███╗   ███╗ █████╗ ██████╗      ███╗   ███╗██╗   ██╗███████╗████████╗ █████╗ ███████╗ █████╗ 
-██╔══██╗██║  ██║████╗ ████║██╔══██╗██╔══██╗     ████╗ ████║██║   ██║██╔════╝╚══██╔══╝██╔══██╗██╔════╝██╔══██╗
-███████║███████║██╔████╔██║███████║██║  ██║     ██╔████╔██║██║   ██║███████╗   ██║   ███████║█████╗  ███████║
-██╔══██║██╔══██║██║╚██╔╝██║██╔══██║██║  ██║     ██║╚██╔╝██║██║   ██║╚════██║   ██║   ██╔══██║██╔══╝  ██╔══██║
-██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║██████╔╝     ██║ ╚═╝ ██║╚██████╔╝███████║   ██║   ██║  ██║██║     ██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝      ╚═╝     ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝
-```
+<a href="https://ahmadmustafa.me"><img src="https://img.shields.io/badge/Portfolio-ahmadmustafa.me-FF6B2B?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ahmadmustafabutt"><img src="https://img.shields.io/badge/LinkedIn-ahmadmustafabutt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ahmadmustafabutt.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.npmjs.com/org/warrant-lab"><img src="https://img.shields.io/badge/npm-@warrant--lab-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=18&duration=3000&pause=1000&color=FF6B2B&center=true&vCenter=true&width=600&height=50&lines=Product+Full-Stack+Engineer;AI+%2F+ML+Integration+Specialist;UI%2FUX+%E2%80%94+From+Concept+to+Code" />
+<br/><br/>
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/iamahmadmustafa-FF6B2B?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://ahmadmustafa.me.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadmustafabutt)
-[![Email](https://img.shields.io/badge/ahmadmustafabutt.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmadmustafabutt.dev@gmail.com)
-[![Instagram](https://img.shields.io/badge/@ahmadbuttmusic-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ahmadbuttmusic)
+<img src="https://komarev.com/ghpvc/?username=ahmadmustafa02&label=Profile%20Views&color=FF6B2B&style=flat-square" />
+<img src="https://img.shields.io/badge/Based%20in-Islamabad%2C%20PK-0D1117?style=flat-square&logo=googlemaps&logoColor=FF6B2B" />
+<img src="https://img.shields.io/badge/Open%20to-Collaborations-2EA043?style=flat-square" />
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-## &nbsp;`01` &nbsp; About Me
+<!-- ============================== ABOUT ============================== -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;whoami
 
 ```ts
 const ahmad = {
-  role     : "Product Full-Stack Engineer",
-  focus    : ["Scalable Web Products", "AI-Powered Features", "Thoughtful UX"],
-  approach : "Design with empathy. Build with precision. Enhance with AI.",
-  currently: "Integrating LLMs into real-world user experiences",
-  contact  : "ahmadmustafabutt.dev@gmail.com"
+  role       : "Full Stack AI Engineer",
+  alsoKnownAs: "Undergraduate Researcher, AI-Agent Software Security",
+  building   : ["Agent security layers", "RAG systems", "AI developer tooling"],
+  currently  : {
+    job      : "Full Stack Developer @ Placentek",
+    program  : "AI-Focused SWE Intern @ Arbisoft",
+    community: "AI Lead @ AWS Student Builder Group, CUI",
+    studying : "BS Computer Science @ COMSATS Islamabad (2027)",
+  },
+  obsessedWith: "Making LLMs useful, measurable, and safe to trust",
+  contact     : "ahmadmustafabutt.dev@gmail.com",
 };
 ```
 
-I build **complete digital products** — from pixel-perfect interfaces to intelligent backend systems. My work sits at the intersection of **engineering** and **design thinking**, driven by a deep belief that great software should feel effortless.
+I build **AI-powered systems that ship**, and then I try to break them. My work lives where full-stack engineering meets applied LLMs and security: agents that respect the user's intent, pipelines that are observable end to end, and evaluations that report the honest numbers, not just the flattering ones.
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-## 🛠️ Tech Stack
-
+<!-- ============================== IMPACT NUMBERS ============================== -->
 <div align="center">
 
-| Frontend | Backend | Databases |
-|:---:|:---:|:---:|
-| React • TypeScript • JavaScript | Node.js • Express.js • Java • Python | PostgreSQL • MongoDB • MySQL |
-| Tailwind CSS • Material UI • HTML5/CSS3 | RESTful APIs • C++ | Sequelize • Mongoose |
-
-| AI / ML | Design | Tooling |
-|:---:|:---:|:---:|
-| TensorFlow • Keras • LangChain | Figma • Adobe XD | Git • GitHub • VS Code |
-| Neural Networks • Deep Learning | Wireframing • Mobile-First | Git Flow |
+| 🛡️ Attacks Stopped | 🔬 PRs Analyzed | ⚡ API Speedup | 🚀 Lighthouse Gain | 🌍 OSS Merged Into |
+|:---:|:---:|:---:|:---:|:---:|
+| **60 / 60** | **17,727** | **~35%** | **+20 pts** | **Pipedream (11.6k⭐)** |
+| Warrant guard, plus 15/15 held-out | AI-agent vs human dependency study | PostgreSQL indexing at Placentek | Reusable React + Tailwind library | Acquired by Workday |
 
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,mui&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,java,python,cpp,mongodb,postgres,mysql&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,figma,git,github,vscode&theme=dark" />
-</div>
-
----
-
-## &nbsp;`03` &nbsp; What I Bring
+<!-- ============================== FEATURED PROJECTS ============================== -->
+## 🔥 &nbsp;Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🎯 Product Thinking**
-End-to-end ownership — from early wireframes to production deploys. I treat every feature as a product decision.
+### 🛡️ [Warrant](https://github.com/ahmadmustafa02/warrant)
+**Provenance-based tool authorization for AI agents.**
 
-**🎨 UI/UX Craft**
-Interfaces that are intuitive, responsive, and visually considered. Mobile-first, always.
+Stops agents from being hijacked by malicious instructions hidden in the content they read. Warrant attacks your agent in a sandbox to find weak spots, then enforces permissions derived *only* from the user's original request.
+
+- 🔒 CLI proxy + framework-free TypeScript guard intercepts every sensitive tool call
+- 🧪 Adversarial lab: 60 tuned attacks, 6 families, 24 benign tasks
+- 📊 **60/60** stopped with guard on (vs **17/60** hijacked with it off)
+- 🎯 **15/15** on a held-out set never used for tuning
+- 📦 Published: `@warrant-lab/guard` and `@warrant-lab/cli`
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white"/> <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
 
-**🤖 AI Integration**
-Bringing real intelligence into web apps — not as gimmicks, but as features users actually rely on.
+### 🔍 [CodePulse](https://github.com/ahmadmustafa02/codepulse)
+**AI GitHub App that reviews PRs and grades itself.**
 
-**⚡ Performance & Scale**
-Optimized architecture, clean code, and systems designed to grow with the product.
+An event-driven review pipeline with prompt-injection defense and a maintained evaluation harness that tracks its own review quality over time.
+
+- ⚙️ Async BullMQ/Redis pipeline, HMAC-verified webhooks, retries + dead-letter queue
+- 🏢 Full multi-tenant isolation across GitHub App installations
+- 🧱 Pre-LLM injection gate (embeddings + logistic classifier) with live security dashboard
+- 📐 50-case labeled benchmark to pick the model on precision, not recall alone
+- 🧭 Trace Viewer with step-by-step timelines and automatic fault localization
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 
 </td>
 </tr>
@@ -105,51 +99,153 @@ Optimized architecture, clean code, and systems designed to grow with the produc
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<!-- ============================== RESEARCH ============================== -->
+## 🔬 &nbsp;Research
+
+> **Do AI coding agents ship vulnerable code more often than humans?** I measure it.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📄 [Dependency Vulnerability Introduction in AI-Agent-Authored Pull Requests](https://github.com/ahmadmustafa02)
+
+Empirical study of **17,727 merged PRs**. AI coding agents introduce known-vulnerable dependencies at roughly **double the odds** of human developers (**OR = 2.06**). Includes a self-identified and corrected clustering artifact, reported openly as a methodological caution.
+
+</td>
+<td width="50%" valign="top">
+
+#### 📄 [Generalization & Explainability of AI Vulnerability Detection Across Projects](https://github.com/ahmadmustafa02)
+
+ML vs DL vulnerability detectors across **nine open-source projects**. Under cross-project distribution shift, predictive performance degrades far more than explanation stability. Holm-Bonferroni corrected hypothesis testing throughout.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## &nbsp;`04` &nbsp; Process
+<!-- ============================== EXPERIENCE ============================== -->
+## 💼 &nbsp;Experience
+
+```diff
++ Placentek                                     Full Stack Developer     Jul 2026 > Present
+  ├─ Production RAG shopping assistant (Next.js, OpenAI, Redis) grounded in live inventory
+  ├─ JWT auth + PostgreSQL indexing, ~35% faster average API responses
+  └─ React + Tailwind component library, +20 Lighthouse, 12% faster loads
+
++ Arbisoft                                      AI-Focused SWE Intern    Aug 2026 > Oct 2026
+  ├─ 8-week program: full-stack fundamentals + agentic AI (skills, memory, hooks, MCP)
+  ├─ Shipped Warrant as a self-proposed, mentor-approved capstone
+  └─ Multi-agent orchestration, supervisor/worker patterns, MCP server/client, tool-call tracing
+
++ AWS Student Builder Group @ CUI               AI Lead                  Sep 2026 > Present
+  ├─ Run workshops and hands-on sessions on LLMs, AI tooling, and cloud
+  └─ Mentor student builders from idea to working project
+```
+
+<br/>
+
+<!-- ============================== OPEN SOURCE ============================== -->
+## 🌍 &nbsp;Open Source & Wins
 
 <div align="center">
 
-| | Stage | Description |
-|:---:|:---|:---|
-| `01` | **Research** | Understand users, define the problem |
-| `02` | **Design** | Wireframes, prototypes, visual language |
-| `03` | **Develop** | Clean, scalable, production-ready code |
-| `04` | **AI-Enhance** | Integrate intelligence where it matters |
-| `05` | **Deploy** | Ship with confidence, monitor carefully |
-| `06` | **Iterate** | Learn from data, refine and repeat |
+<a href="https://github.com/PipedreamHQ/pipedream/pull/21505"><img src="https://img.shields.io/badge/Pipedream-PR%20%2321505%20Merged-8957E5?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/PipedreamHQ/pipedream/pull/21452"><img src="https://img.shields.io/badge/Pipedream-PR%20%2321452%20Merged-8957E5?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Google%20Antigravity%20AI%20Seekho%202026-Silver%20Tier-C0C0C0?style=for-the-badge&logo=google&logoColor=white"/>
 
-```
-  01 RESEARCH → 02 DESIGN → 03 DEVELOP → 04 AI-ENHANCE → 05 DEPLOY → 06 ITERATE
-       ↑                                                                     ↓
-       └─────────────────────── user feedback loop ────────────────────────┘
-```
+</div>
 
-*Every product I touch follows this loop — grounded in user needs, refined by data, and built to last.*
+- 🐛 Restored Adobe PDF Services extraction reliability in **Pipedream** (11.6k⭐, acquired by Workday)
+- ✨ Added a new **Jira Download Attachment** action to Pipedream
+- 🥈 Silver tier at **Google Antigravity AI Seekho 2026**
+
+<br/>
+
+<!-- ============================== TECH STACK ============================== -->
+## 🧰 &nbsp;Tech Arsenal
+
+<div align="center">
+
+**Languages & Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,flutter,tailwind,html,css,jest&theme=dark&perline=10" />
+
+**Backend & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,redis&theme=dark" />
+
+**DevOps & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,azure,vercel,postman,figma&theme=dark" />
+
+<br/>
+
+**AI & Agentic Systems**
+<br/>
+<img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-FF6B2B?style=for-the-badge&logo=robotframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=databricks&logoColor=FF6B2B"/>
+<img src="https://img.shields.io/badge/BullMQ-E0234E?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
+<!-- ============================== STATS ============================== -->
+## 📈 &nbsp;GitHub in Numbers
 
 <div align="center">
 
-*"Great products live at the intersection of user needs, technical excellence, and creative vision."*
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmadmustafa02&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B2B&icon_color=FF6B2B&text_color=C9D1D9&rank_icon=github&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmustafa02&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B2B&text_color=C9D1D9&langs_count=6" />
+
+<img src="https://streak-stats.demolab.com?user=ahmadmustafa02&hide_border=true&background=0D1117&ring=FF6B2B&fire=FF6B2B&currStreakLabel=FF6B2B&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadmustafa02&bg_color=0D1117&color=C9D1D9&line=FF6B2B&point=FFFFFF&area=true&area_color=FF6B2B&hide_border=true" width="100%"/>
+
+</div>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF6B2B?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://iamahmadmustafa.vercel.app/)
+<!-- ============================== CERTS ============================== -->
+## 🎓 &nbsp;Education & Certifications
+
+<div align="center">
+
+| | |
+|:---|:---|
+| 🏛️ **COMSATS University Islamabad** | BS Computer Science, 2023 to 2027 |
+| 🧠 **Machine Learning Specialization** | DeepLearning.AI |
+| 🔌 **Introduction to Model Context Protocol** | Anthropic |
+| 🎨 **Google UX Design Professional Certificate** | Google |
+
+</div>
+
+<br/>
+
+<!-- ============================== FOOTER ============================== -->
+<div align="center">
+
+### 🤝 Let's build something that's smart *and* safe.
+
+*Open to AI engineering roles, research collaborations, and interesting agent-security problems.*
+
+<br/>
+
+<a href="https://ahmadmustafa.me"><img src="https://img.shields.io/badge/View%20Portfolio-FF6B2B?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 &nbsp;
-[![Email](https://img.shields.io/badge/Get_In_Touch-FF6B2B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadmustafabutt.dev@gmail.com)
+<a href="mailto:ahmadmustafabutt.dev@gmail.com"><img src="https://img.shields.io/badge/Get%20In%20Touch-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6B2B"/></a>
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=4&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E63,50:FF6B2B,100:0D1117&height=120&section=footer" width="100%"/>
 
 </div>
