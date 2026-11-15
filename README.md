@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Ahmad Mustafa, full-stack AI engineer. Islamabad. COMSATS University, class of 2027. Full-stack developer at Placentek.">
+  <img src="assets/hero.svg?v=2" width="100%" alt="Ahmad Mustafa, full-stack AI engineer. Islamabad. COMSATS University, class of 2027. Full-stack developer at Placentek.">
 </p>
 
 <p align="center">
