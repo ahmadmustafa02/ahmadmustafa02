@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="248" viewBox="0 0 720 248" role="img">
-  <title>Ahmad Mustafa, full-stack AI engineer and security researcher</title>
+  <title>Ahmad Mustafa, full-stack AI engineer</title>
   <defs>
     <clipPath id="card">
       <rect width="720" height="248" rx="18"/>
@@ -33,7 +33,7 @@
     <text x="70" y="90" text-anchor="middle" fill="#22D3EE" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" font-weight="700">AM</text>
     <text x="124" y="66" fill="#22D3EE" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2.4">FULL-STACK AI ENGINEER</text>
     <text x="124" y="108" fill="#F6F4FF" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="40" font-weight="600" letter-spacing="-0.8">Ahmad Mustafa</text>
-    <text x="124" y="142" fill="#B7B3C9" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16">Security researcher. Agents, RAG, and authorization.</text>
+    <text x="124" y="142" fill="#B7B3C9" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16">Agents, RAG, and authorization.</text>
     <line x1="124" y1="168" x2="520" y2="168" stroke="#2A3142" stroke-width="1"/>
     <circle cx="130" cy="198" r="4" fill="#22D3EE"/>
     <text x="144" y="203" fill="#D5D2E4" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14">Islamabad</text>
