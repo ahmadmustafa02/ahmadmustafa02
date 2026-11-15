@@ -1,5 +1,13 @@
+<h1 align="center">Ahmad Mustafa</h1>
+
 <p align="center">
-  <img src="assets/hero.svg?v=2" width="100%" alt="Ahmad Mustafa, full-stack AI engineer. Islamabad. COMSATS University, class of 2027. Full-stack developer at Placentek.">
+  <strong>Full-stack AI engineer</strong><br>
+  Agents, RAG, and authorization<br>
+  Islamabad &#183; COMSATS University, 2027 &#183; Placentek
+</p>
+
+<p align="center">
+  <img src="assets/rule.svg" width="168" alt="">
 </p>
 
 <p align="center">
